@@ -1,0 +1,501 @@
+customer_id,cart_id,first_name,last_name,birth_date,phone_number,email_id,house_number,street,city,pincode,state,country,points_earned,membership_status
+CUST001,CART001,Cherye,Doohan,1994-12-19,4411242025,cdoohan0@nasa.gov,251,"5019 Spenser Avenue","Buliran Segundo",526547,NULL,Philippines,2895,Prime
+CUST002,CART002,Rollin,Jermey,1959-09-17,5711869536,rjermey1@buzzfeed.com,234,"8 Sachs Court",Sigu,503340,NULL,China,4717,Prime
+CUST003,CART003,Trina,Swalough,1972-05-07,1696458486,tswalough2@opensource.org,252,"28465 Paget Way",Patique,187433,NULL,Philippines,1511,Normal
+CUST004,CART004,Cris,Kingswold,1970-08-06,7423425801,ckingswold3@kickstarter.com,11,"1 Carpenter Pass",Moriya,137662,NULL,Japan,1275,Prime
+CUST005,CART005,Leonerd,Burling,1976-09-05,4273657682,lburling4@nationalgeographic.com,121,"9 Lakewood Gardens Parkway",Köln,387874,Nordrhein-Westfalen,Germany,3407,Normal
+CUST006,CART006,Scarlett,MacKill,1955-07-24,8343950542,smackill5@wix.com,53,"3454 Florence Trail",Vaggeryd,595050,Jönköping,Sweden,NULL,Prime
+CUST007,CART007,Olenolin,Pogue,1995-02-03,2521095820,opogue6@sun.com,44,"762 Merchant Trail","Ash Shaḩānīyah",189276,NULL,Qatar,1226,Prime
+CUST008,CART008,Sarena,Guiot,1993-08-26,8534798598,sguiot7@ucoz.com,51,"46 Stephen Drive",Stockholm,389265,Stockholm,Sweden,2134,Elite
+CUST009,CART009,Hobart,Paxforde,1991-01-01,4878790524,hpaxforde8@163.com,214,"21184 Washington Street",Simo,367951,NULL,Finland,2321,Elite
+CUST010,CART010,Odille,Florio,1950-12-20,7298544304,oflorio9@de.vu,228,"76 Hauk Way",Strömsund,178947,Jämtland,Sweden,2112,Elite
+CUST011,CART011,Edeline,Stelli,1973-10-18,2868063880,estellia@prweb.com,103,"17 Dorton Place","Black River",456884,NULL,Jamaica,1746,Normal
+CUST012,CART012,Barnie,Fosdyke,1976-01-21,NULL,bfosdykeb@123-reg.co.uk,149,"24 Havey Plaza",Saltsjöbaden,553841,Stockholm,Sweden,4120,Prime
+CUST013,CART013,Catarina,Wardall,1951-08-07,9396699102,cwardallc@hubpages.com,189,"8911 Mariners Cove Center",Caidian,473676,NULL,China,NULL,Prime
+CUST014,CART014,Ailyn,Nashe,1972-07-18,7869488645,anashed@europa.eu,295,"276 Muir Point",Ambon,295941,NULL,Indonesia,1921,Elite
+CUST015,CART015,Annice,Dicte,1957-03-27,4257159276,adictee@github.com,15,"5 Division Point","Nong Ruea",376861,NULL,Thailand,2229,Elite
+CUST016,CART016,Jessica,Blackmoor,1959-08-01,7241195613,jblackmoorf@utexas.edu,214,"3 Norway Maple Center",Dajie,128080,NULL,China,859,Elite
+CUST017,CART017,Shawn,Wherton,1973-02-04,5248886824,swhertong@icq.com,145,"4528 Lawn Alley",Borås,391257,"Västra Götaland",Sweden,3060,Elite
+CUST018,CART018,Gnni,Borwick,1975-05-31,2765417024,gborwickh@ucoz.ru,194,"815 Clarendon Park",Narail,209965,NULL,Bangladesh,4598,Normal
+CUST019,CART019,Tiler,Jowett,1977-07-28,3439114337,tjowetti@mapy.cz,232,"5 Kennedy Terrace",Barubandung,216500,NULL,Indonesia,1382,Normal
+CUST020,CART020,Leticia,Cockayme,1995-12-20,8111225773,lcockaymej@liveinternet.ru,7,"01 Park Meadow Plaza",Mozirje,290964,NULL,Slovenia,3722,Normal
+CUST021,CART021,Hanna,Jevons,1981-04-07,7526823464,hjevonsk@ebay.co.uk,207,"96 Muir Lane",Mweka,401210,NULL,"Democratic Republic of the Congo",3787,Elite
+CUST022,CART022,Ketty,Wardley,1963-04-27,7048270361,kwardleyl@nih.gov,51,"8 Graedel Terrace",Göteborg,185248,"Västra Götaland",Sweden,2943,Elite
+CUST023,CART023,Lara,Baskerville,1964-11-01,3006119488,lbaskervillem@weebly.com,103,"7339 Stuart Junction",Haukipudas,193674,NULL,Finland,2904,Elite
+CUST024,CART024,Twyla,Conws,1976-09-28,9146855687,tconwsn@godaddy.com,222,"7042 Village Plaza",Quime,145975,NULL,Bolivia,NULL,Normal
+CUST025,CART025,Agretha,Oliffe,1973-02-04,5703978007,aoliffeo@hud.gov,291,"1313 Bartillon Hill",Longos,390259,Braga,Portugal,4807,Normal
+CUST026,CART026,Darlene,Riggeard,2004-09-03,3299700607,driggeardp@abc.net.au,64,"9813 Buell Street",Ollantaytambo,247408,NULL,Peru,117,Normal
+CUST027,CART027,Inger,"De Ruggero",1993-05-08,2881500524,ideruggeroq@addtoany.com,139,"97009 Randy Lane","Senhor do Bonfim",296497,NULL,Brazil,3604,Elite
+CUST028,CART028,Laurent,Costy,2005-04-09,2412905113,lcostyr@mtv.com,198,"029 Bartillon Plaza","Phra Pradaeng",417662,NULL,Thailand,1714,Normal
+CUST029,CART029,Derron,Crossdale,2001-09-26,3048714834,dcrossdales@msn.com,245,"6523 Barnett Drive",Trollhättan,489634,"Västra Götaland",Sweden,2640,Prime
+CUST030,CART030,Mayer,Vannuccinii,1996-09-11,8618649404,mvannucciniit@purevolume.com,230,"65176 Rieder Center",Kawasaki,355574,NULL,Japan,NULL,Prime
+CUST031,CART031,Maddy,Behne,1950-07-04,4387637126,mbehneu@google.pl,42,"04226 Jana Alley",Świnna,493419,NULL,Poland,NULL,Prime
+CUST032,CART032,Moses,Orehead,1999-06-12,7804784618,moreheadv@homestead.com,86,"71 Old Gate Avenue",Novorossiysk,195880,NULL,Russia,80,Elite
+CUST033,CART033,Woody,MacCosty,1974-05-05,7739681025,wmaccostyw@freewebs.com,5,"4094 Hoffman Plaza",Chicago,279115,Illinois,"United States",702,Prime
+CUST034,CART034,Devland,Craigg,1950-09-29,4862012132,dcraiggx@howstuffworks.com,138,"59650 Mesta Plaza","Palmar de Varela",407346,NULL,Colombia,297,Elite
+CUST035,CART035,Tobye,Jeffery,1987-08-11,9064829879,tjefferyy@aboutads.info,157,"7 Lindbergh Hill",Munkedal,266695,"Västra Götaland",Sweden,NULL,Normal
+CUST036,CART036,Portia,Olsson,1992-12-14,4338270646,polssonz@ifeng.com,194,"9577 Golf View Park",Dumbéa,246938,NULL,"New Caledonia",4198,Prime
+CUST037,CART037,Merridie,Karlowicz,1986-04-17,NULL,mkarlowicz10@ted.com,235,"6 Knutson Trail",Tuofeng,350964,NULL,China,3427,Normal
+CUST038,CART038,Gregor,Collinette,1970-12-07,2129395144,gcollinette11@ezinearticles.com,260,"3247 Southridge Junction",Duifang,501089,NULL,China,2523,Normal
+CUST039,CART039,Rasia,Eyton,1957-11-05,4159724959,reyton12@jigsy.com,106,"5921 Killdeer Road",Romans-sur-Isère,385937,Rhône-Alpes,France,1806,Normal
+CUST040,CART040,Ingunna,Corness,1982-01-22,2357672747,icorness13@wikia.com,145,"91067 Hovde Park",Águas,448442,"Castelo Branco",Portugal,2105,Elite
+CUST041,CART041,Bab,Sallans,1995-03-04,4735332659,bsallans14@flickr.com,199,"5221 Sherman Crossing",Chachagüí,330428,NULL,Colombia,4372,Prime
+CUST042,CART042,Molli,Elderidge,2000-03-03,NULL,melderidge15@twitpic.com,240,"7 Rusk Road",Ayamaru,391329,NULL,Indonesia,4019,Prime
+CUST043,CART043,Miltie,Wildash,1989-11-11,8966912253,mwildash16@51.la,13,"90 Union Pass",Canggou,592809,NULL,China,3762,Prime
+CUST044,CART044,Vania,Benito,1976-03-27,4381454511,vbenito17@statcounter.com,17,"438 Lunder Junction",Nato,324327,NULL,Philippines,3441,Normal
+CUST045,CART045,Mitchael,Dunks,1983-04-06,1042105314,mdunks18@domainmarket.com,124,"4098 Reinke Road",Bugarama,539503,NULL,Tanzania,3348,Normal
+CUST046,CART046,Elga,Warsap,1954-12-20,3322220826,ewarsap19@flavors.me,252,"8394 Village Green Parkway","Vila Flor",193780,Bragança,Portugal,631,Normal
+CUST047,CART047,Sandy,Selburn,1979-08-01,3858749878,sselburn1a@usgs.gov,48,"80 Goodland Lane","Chai Badan",321554,NULL,Thailand,1579,Prime
+CUST048,CART048,Bron,O'Corr,1979-03-28,8289690107,bocorr1b@ow.ly,150,"743 Loftsgordon Center",Koua,190250,NULL,Comoros,754,Normal
+CUST049,CART049,Skelly,Fowler,1992-01-10,4141796989,sfowler1c@behance.net,73,"92301 Bartelt Road","Kuala Lumpur",244991,"Kuala Lumpur",Malaysia,1937,Prime
+CUST050,CART050,Fred,Barthelet,1990-07-15,4952689879,fbarthelet1d@pbs.org,38,"053 Reinke Circle",Zhangyelu,210747,NULL,China,4602,Normal
+CUST051,CART051,Becki,Strick,2005-06-20,6926565636,bstrick1e@paypal.com,159,"7 Lake View Road",Yulin,390741,NULL,China,3184,Prime
+CUST052,CART052,Lena,Burbudge,1987-05-17,4576586004,lburbudge1f@hibu.com,26,"5 Debs Terrace",Mandala,522501,NULL,Indonesia,631,Elite
+CUST053,CART053,Darelle,Kubecka,1972-07-12,4153477181,dkubecka1g@weebly.com,209,"01 Macpherson Drive",Youxikou,111227,NULL,China,4756,Prime
+CUST054,CART054,Christian,Tuckwood,1989-05-21,6677514394,ctuckwood1h@hud.gov,80,"02944 Vernon Hill",Luksuhin,298192,NULL,Philippines,648,Prime
+CUST055,CART055,Lou,Halle,1971-01-20,6997769551,lhalle1i@over-blog.com,27,"895 Evergreen Pass",Chakou,464101,NULL,China,920,Normal
+CUST056,CART056,Daren,Suttell,1997-08-03,8665823736,dsuttell1j@stanford.edu,3,"74 Coolidge Crossing",Lungmar,338177,NULL,China,4353,Normal
+CUST057,CART057,Raddy,Izzett,1976-10-29,3909710643,rizzett1k@phoca.cz,83,"36656 Muir Crossing",Niechanowo,373846,NULL,Poland,4494,Prime
+CUST058,CART058,Kelci,Andrys,1955-06-15,6884609006,kandrys1l@bbb.org,263,"1421 Muir Trail",Corga,167577,"Viana do Castelo",Portugal,3944,Prime
+CUST059,CART059,Ilario,Pidgin,2002-12-31,2046418371,ipidgin1m@networkadvertising.org,18,"374 Harper Road",Kalej,278466,NULL,Poland,823,Normal
+CUST060,CART060,Dannie,Eversfield,2008-06-27,8516816601,deversfield1n@wordpress.com,171,"18 American Ash Lane","El Ocotón",344864,NULL,Honduras,3801,Normal
+CUST061,CART061,Goldie,Simic,1968-04-10,8447297530,gsimic1o@seattletimes.com,106,"2 Londonderry Street",Kibiya,183611,NULL,Nigeria,920,Prime
+CUST062,CART062,Cherilyn,Francois,2000-01-21,9683767611,cfrancois1p@scientificamerican.com,17,"872 John Wall Plaza",Örebro,231990,Örebro,Sweden,182,Normal
+CUST063,CART063,Rosaleen,Wisam,1977-09-29,7018177769,rwisam1q@blinklist.com,75,"5211 Fisk Circle",Xinqiao,545229,NULL,China,1615,Elite
+CUST064,CART064,Brigitta,Huddleston,1961-06-07,6911775371,bhuddleston1r@dmoz.org,144,"5 Oriole Park","Mae Fa Luang",193875,NULL,Thailand,2643,Normal
+CUST065,CART065,Pauline,Koppens,2002-08-25,9958832090,pkoppens1s@jigsy.com,125,"55 Jana Circle",Clanwilliam,115558,NULL,"South Africa",4590,Elite
+CUST066,CART066,Ajay,Phillps,2003-10-22,4176068408,aphillps1t@usa.gov,11,"74 Aberg Plaza",Springfield,132237,Missouri,"United States",NULL,Elite
+CUST067,CART067,Ezechiel,Pressland,1963-05-20,1372375890,epressland1u@sciencedirect.com,223,"21 Blue Bill Park Circle",Fort-de-France,432912,Martinique,Martinique,698,Elite
+CUST068,CART068,Marga,Minthorpe,1987-09-10,7093116268,mminthorpe1v@harvard.edu,84,"2923 Park Meadow Pass",Neuquén,232992,NULL,Argentina,3310,Normal
+CUST069,CART069,Joni,Camilio,1987-09-11,5944426107,jcamilio1w@vkontakte.ru,80,"73 Delaware Center",Sułoszowa,518833,NULL,Poland,3221,Normal
+CUST070,CART070,Aaron,Sanpere,2003-03-29,3029407030,asanpere1x@people.com.cn,53,"58680 Center Crossing","Cinagrog Girang",390419,NULL,Indonesia,2276,Prime
+CUST071,CART071,Rocky,Comfort,1982-05-15,8256324124,rcomfort1y@epa.gov,300,"1921 Mallory Crossing","Heřmanův Městec",210304,NULL,"Czech Republic",4535,Normal
+CUST072,CART072,Minnnie,Maletratt,1989-08-05,9818104683,mmaletratt1z@shinystat.com,265,"9089 Moland Circle",Shaowu,529268,NULL,China,1022,Elite
+CUST073,CART073,Ernest,Hursey,2004-08-21,4175570350,ehursey20@sakura.ne.jp,197,"53 Manley Lane",Kendaruan,234390,NULL,Indonesia,NULL,Elite
+CUST074,CART074,Mickey,Jeens,2008-07-01,6148960135,mjeens21@wordpress.org,138,"298 Monterey Pass",Kekeran,269791,NULL,Indonesia,2941,Elite
+CUST075,CART075,Veronique,Dillimore,2009-07-01,NULL,vdillimore22@mysql.com,112,"622 Blackbird Trail",Piranshahr,462055,NULL,Iran,1715,Prime
+CUST076,CART076,Dre,Wegman,1991-09-12,2689232554,dwegman23@infoseek.co.jp,154,"3174 Crescent Oaks Crossing",Manado,489338,NULL,Indonesia,735,Elite
+CUST077,CART077,Raina,Langstone,1985-09-12,9554163661,rlangstone24@apache.org,299,"0627 Center Crossing",Rikitgaib,420740,NULL,Indonesia,3079,Normal
+CUST078,CART078,Mill,Bangham,2002-08-28,9927754158,mbangham25@independent.co.uk,202,"8 Vidon Place",Kavadarci,383457,NULL,Macedonia,170,Normal
+CUST079,CART079,Merissa,MacTrustram,1996-03-19,3835999436,mmactrustram26@google.com.br,199,"4899 Kingsford Street",Limon,294724,NULL,Philippines,2884,Elite
+CUST080,CART080,Jobie,Chatteris,1959-12-05,1671994101,jchatteris27@com.com,180,"803 Ramsey Way",Linggou,592643,NULL,China,713,Prime
+CUST081,CART081,Bert,Row,2008-02-15,9334038064,brow28@miibeian.gov.cn,256,"0557 Manufacturers Hill",Jargalant,125008,NULL,Mongolia,958,Normal
+CUST082,CART082,Easter,Manhood,2004-03-06,2922079911,emanhood29@t.co,140,"4 Oak Drive",Jixiang,585176,NULL,China,4774,Elite
+CUST083,CART083,Noni,Egar,1962-12-03,2945168109,negar2a@moonfruit.com,289,"2 Karstens Court","Ngã Bảy",472209,NULL,Vietnam,2833,Normal
+CUST084,CART084,Ingaborg,Mariette,1961-05-19,5377793708,imariette2b@webnode.com,40,"6 Nancy Place",Qesarya,498138,NULL,Israel,1045,Prime
+CUST085,CART085,Merell,Marson,1976-02-29,5851494309,mmarson2c@symantec.com,104,"14348 Red Cloud Trail",Smolenka,268188,NULL,Russia,4282,Prime
+CUST086,CART086,Waldemar,Lattka,1953-10-17,6824848268,wlattka2d@gmpg.org,38,"37 Buhler Road",Ruma,141770,NULL,Serbia,1027,Prime
+CUST087,CART087,Innis,Ellerker,1952-12-28,4831611211,iellerker2e@ehow.com,188,"8800 Badeau Avenue",Mingcheng,179128,NULL,China,4708,Normal
+CUST088,CART088,Elly,Syne,1978-01-20,1238523105,esyne2f@forbes.com,295,"0 Anniversary Place",Curumaní,460065,NULL,Colombia,807,Normal
+CUST089,CART089,Merilee,Culver,1962-12-21,4701790592,mculver2g@tumblr.com,238,"8484 Manitowish Plaza",Okrouhlice,195820,NULL,"Czech Republic",1576,Elite
+CUST090,CART090,Zedekiah,Seabright,2006-10-25,9894977092,zseabright2h@illinois.edu,29,"1828 Sullivan Trail",Yerazgavors,337943,NULL,Armenia,4523,Normal
+CUST091,CART091,Alexandr,Woodland,1982-05-06,7371200101,awoodland2i@cbslocal.com,3,"140 Lien Lane",Ciburial,300729,NULL,Indonesia,2049,Normal
+CUST092,CART092,Roscoe,Kimber,1962-09-12,3415548790,rkimber2j@w3.org,44,"10 Melby Junction",Sassandra,362182,NULL,"Ivory Coast",3114,Prime
+CUST093,CART093,Elsbeth,Belli,1992-05-15,8348584932,ebelli2k@ucla.edu,62,"33 Shopko Terrace","Na Kae",114034,NULL,Thailand,2866,Normal
+CUST094,CART094,Uri,Avramovic,1967-06-11,7128656767,uavramovic2l@yandex.ru,97,"1 Prentice Pass",Xiyuan,287800,NULL,China,503,Elite
+CUST095,CART095,Ad,Sherrett,1981-07-10,6321249022,asherrett2m@hud.gov,10,"756 Green Ridge Center",Nahura,545224,NULL,Indonesia,4055,Normal
+CUST096,CART096,Nessie,Cayzer,1954-01-10,5826367257,ncayzer2n@amazonaws.com,264,"7239 Mitchell Street",Tongqing,431180,NULL,China,2803,Prime
+CUST097,CART097,Chickie,Berrey,2008-10-20,3039540471,cberrey2o@sun.com,197,"4646 Prairie Rose Drive",Göteborg,314239,"Västra Götaland",Sweden,1853,Prime
+CUST098,CART098,Tera,Kobelt,1983-03-22,4596204154,tkobelt2p@eventbrite.com,82,"5 Quincy Trail",Altavista,109636,Tamaulipas,Mexico,182,Normal
+CUST099,CART099,Dayle,Dingate,1969-07-15,NULL,ddingate2q@parallels.com,240,"96752 Dennis Way","Paris 05",528863,Île-de-France,France,NULL,Normal
+CUST100,CART100,Ogden,Olcot,1999-06-13,7384996530,oolcot2r@washingtonpost.com,266,"2133 Bellgrove Court",Shankeng,545522,NULL,China,3387,Prime
+CUST101,CART101,Boigie,Sirmond,1953-05-02,4864676233,bsirmond2s@abc.net.au,238,"35 Barby Point",Danzi,459989,NULL,China,4690,Elite
+CUST102,CART102,Norean,Lean,1975-01-27,7219052728,nlean2t@bbc.co.uk,39,"7 Debra Alley",Andahuaylas,386475,NULL,Peru,3048,Prime
+CUST103,CART103,Rourke,Janning,1986-07-30,7107527443,rjanning2u@weebly.com,280,"63 Corscot Road",Shushi,267313,NULL,Azerbaijan,3852,Elite
+CUST104,CART104,Karmen,Kiossel,2000-03-29,9542584775,kkiossel2v@smh.com.au,13,"49 Sunbrook Center",Listowel,529063,NULL,Ireland,570,Normal
+CUST105,CART105,Tilda,Reuven,1969-01-17,7283844518,treuven2w@unicef.org,17,"018 Nevada Way",Burirao,483653,NULL,Philippines,2395,Elite
+CUST106,CART106,Hermione,Heaton,2007-06-28,5094283800,hheaton2x@yelp.com,274,"57 Anhalt Crossing","Sungai Raya",202621,NULL,Indonesia,4316,Elite
+CUST107,CART107,Marie-ann,Busfield,1964-07-22,3036522737,mbusfield2y@joomla.org,56,"3 Warbler Point",Hushan,353328,NULL,China,2652,Normal
+CUST108,CART108,Flss,Bayns,2002-10-30,3884811607,fbayns2z@si.edu,73,"5815 Valley Edge Way",Kempele,585274,NULL,Finland,4389,Normal
+CUST109,CART109,Fitzgerald,Pere,1975-12-04,1782797832,fpere30@nyu.edu,209,"2 Lukken Pass",Mendeleyevo,583172,NULL,Russia,775,Elite
+CUST110,CART110,Brenn,Sallans,1967-06-04,9016252808,bsallans31@tumblr.com,142,"54 Arkansas Avenue",Manadas,398143,"Ilha de São Jorge",Portugal,4215,Prime
+CUST111,CART111,Thomasa,Vahl,1962-07-10,4265751543,tvahl32@yandex.ru,115,"720 Thackeray Way",Nouaseur,556046,NULL,Morocco,220,Elite
+CUST112,CART112,Rozanne,Crus,1979-01-01,6172101334,rcrus33@drupal.org,228,"04 Burning Wood Junction",Karangboyo,325897,NULL,Indonesia,4164,Prime
+CUST113,CART113,Rozalin,LeEstut,1954-04-10,4795096059,rleestut34@google.com,240,"5 Evergreen Way",Futtsu,468070,NULL,Japan,3349,Elite
+CUST114,CART114,Erin,Lewsy,1986-02-08,5381059868,elewsy35@sfgate.com,217,"4 Karstens Circle",Lupon,585306,NULL,Philippines,4031,Prime
+CUST115,CART115,Nettie,Scrimshire,1972-06-01,8971036655,nscrimshire36@cdbaby.com,30,"855 Clarendon Plaza","Palma Gil",360321,NULL,Philippines,3733,Elite
+CUST116,CART116,Sergio,Bredes,1989-06-02,8947529719,sbredes37@vimeo.com,194,"12931 Pennsylvania Junction",Nanjing,593393,NULL,China,4855,Prime
+CUST117,CART117,Marcellina,Iwanicki,1994-01-23,4573564102,miwanicki38@networkadvertising.org,55,"59 Westend Drive",Jakusko,341165,NULL,Nigeria,1348,Prime
+CUST118,CART118,Johny,Shaudfurth,1992-07-01,4579998994,jshaudfurth39@epa.gov,110,"808 Tennyson Junction",Haoshui,331274,NULL,China,2541,Prime
+CUST119,CART119,Gleda,Duggan,1973-11-08,1723080208,gduggan3a@addtoany.com,110,"06527 Maple Crossing",Smilavichy,280330,NULL,Belarus,3856,Elite
+CUST120,CART120,Palm,Paskin,1981-09-11,3675973950,ppaskin3b@techcrunch.com,183,"05 Coolidge Court","Tunggaoen Timur",331124,NULL,Indonesia,1991,Elite
+CUST121,CART121,Queenie,Noraway,1990-07-10,7405573778,qnoraway3c@hhs.gov,148,"403 Village Terrace",Roma,522318,Lazio,Italy,1744,Elite
+CUST122,CART122,Betta,McConnal,1960-07-27,5561038660,bmcconnal3d@usgs.gov,209,"5340 Summit Lane",Burujul,426789,NULL,Indonesia,4268,Prime
+CUST123,CART123,Washington,Vasilyev,2000-09-03,1666551850,wvasilyev3e@joomla.org,146,"3958 Springs Avenue",Guanshan,467721,NULL,China,4606,Prime
+CUST124,CART124,Patten,Aucourte,1992-04-25,9673671336,paucourte3f@businesswire.com,141,"8 Barnett Circle",Kalajoki,278949,NULL,Finland,NULL,Elite
+CUST125,CART125,Nikolaus,Dobrowolski,1966-08-06,1682355001,ndobrowolski3g@odnoklassniki.ru,222,"1647 Golf Junction",Sondo,402848,NULL,Indonesia,1466,Prime
+CUST126,CART126,Claiborn,Scullard,1986-08-15,5549750712,cscullard3h@com.com,218,"1 Reinke Way",Mulyadadi,531777,NULL,Indonesia,1681,Prime
+CUST127,CART127,Coleman,Pluthero,1958-05-22,1023086787,cpluthero3i@goo.gl,166,"7 Hermina Trail",Zhongdong,212161,NULL,China,108,Elite
+CUST128,CART128,Vina,MacKnocker,1976-06-10,2075504215,vmacknocker3j@princeton.edu,185,"5 Cardinal Pass",Anmore,463469,"British Columbia",Canada,205,Normal
+CUST129,CART129,Kirsti,Steuart,1976-12-11,8834896588,ksteuart3k@hexun.com,209,"9415 Merry Crossing",Minle,568735,NULL,China,1531,Prime
+CUST130,CART130,Roxana,Forward,1998-01-27,5319027815,rforward3l@ezinearticles.com,191,"6833 Fairfield Road","Đình Lập",123632,NULL,Vietnam,378,Normal
+CUST131,CART131,Mair,Catcheside,1970-04-12,9082541316,mcatcheside3m@bravesites.com,280,"5 Riverside Avenue",Haumeni,236897,NULL,Indonesia,4911,Elite
+CUST132,CART132,Leila,Ratazzi,1987-02-15,2534565497,lratazzi3n@loc.gov,166,"2 Merchant Crossing",Jaroměřice,379867,NULL,"Czech Republic",1447,Prime
+CUST133,CART133,Glori,Hunte,1989-01-29,2303502990,ghunte3o@wsj.com,282,"6488 High Crossing Lane","Bucu Lor",558945,NULL,Indonesia,4223,Prime
+CUST134,CART134,Izaak,Beazer,1953-06-22,5116820507,ibeazer3p@gmpg.org,3,"8 Moose Crossing","Cut-cut Primero",481292,NULL,Philippines,4743,Elite
+CUST135,CART135,Lalo,McGowing,1968-02-06,4788212631,lmcgowing3q@theatlantic.com,240,"44593 Emmet Court","Hưng Nguyên",420829,NULL,Vietnam,2029,Prime
+CUST136,CART136,Koo,Fulep,1986-03-09,6479197545,kfulep3r@earthlink.net,249,"839 Buhler Point",Gigant,350501,NULL,Russia,NULL,Elite
+CUST137,CART137,Richmound,Allabarton,1983-07-22,7637608917,rallabarton3s@cbslocal.com,213,"168 Eastwood Place",Sidomekar,250520,NULL,Indonesia,2420,Prime
+CUST138,CART138,Waly,McAulay,1974-10-16,3549463991,wmcaulay3t@wikipedia.org,29,"65747 Carberry Way","Buni Yadi",174108,NULL,Nigeria,3796,Normal
+CUST139,CART139,Cookie,Melland,2009-10-06,5626446370,cmelland3u@trellian.com,98,"2 1st Junction",Baoji,202450,NULL,China,178,Prime
+CUST140,CART140,Janeta,Twinbourne,1983-10-28,9379367189,jtwinbourne3v@ucsd.edu,39,"0843 Miller Trail",Narimanov,422108,NULL,Russia,3630,Elite
+CUST141,CART141,Alicea,Nasi,1966-12-18,1251609712,anasi3w@yelp.com,140,"5054 Burrows Junction",Hacıqabul,240001,NULL,Azerbaijan,4747,Normal
+CUST142,CART142,Vladamir,Husk,1975-02-22,5711035234,vhusk3x@businesswire.com,239,"427 Melby Alley",Dongjie,588353,NULL,China,3348,Elite
+CUST143,CART143,Auberta,Sigg,1980-11-07,NULL,asigg3y@tripod.com,195,"3935 Ilene Circle","Port Barton",516771,NULL,Philippines,737,Prime
+CUST144,CART144,Naomi,Genney,1967-03-12,6831405866,ngenney3z@rediff.com,115,"19322 Roth Place",Norrköping,162405,Östergötland,Sweden,1459,Prime
+CUST145,CART145,Reyna,Pickvance,1987-10-01,4962407340,rpickvance40@so-net.ne.jp,272,"186 Sutteridge Crossing",Ginatilan,441582,NULL,Philippines,929,Normal
+CUST146,CART146,Elga,Richmont,1975-08-28,3847761542,erichmont41@seattletimes.com,246,"91821 Cody Point",Pontevedra,493478,Galicia,Spain,3694,Elite
+CUST147,CART147,Marieann,Remon,1971-12-05,8503653767,mremon42@google.es,31,"9 Westport Street",Pensacola,310632,Florida,"United States",585,Normal
+CUST148,CART148,Barbara-anne,Blaksland,1970-10-28,8493030838,bblaksland43@pcworld.com,166,"9 Arizona Park","Wachira Barami",210256,NULL,Thailand,597,Normal
+CUST149,CART149,Fraze,Probyn,2006-12-26,2477252668,fprobyn44@nsw.gov.au,122,"93486 Springview Center",Rybinsk,482784,NULL,Russia,4333,Prime
+CUST150,CART150,Jedediah,Oakman,1985-01-10,5683255765,joakman45@ucoz.com,84,"63 Nancy Pass","Senhor da Serra",579500,Coimbra,Portugal,66,Normal
+CUST151,CART151,Tatum,Sprey,2006-06-26,6738088567,tsprey46@amazon.co.jp,258,"11 Melody Junction","Cerme Kidul",465789,NULL,Indonesia,390,Normal
+CUST152,CART152,Giffard,Chesser,2007-11-02,4397487496,gchesser47@mysql.com,114,"8970 Hauk Plaza",Obispos,163125,NULL,Venezuela,3249,Normal
+CUST153,CART153,Dynah,Ollerton,1997-06-14,3906185990,dollerton48@typepad.com,19,"8243 Esker Road",Lingdi,211194,NULL,China,1177,Elite
+CUST154,CART154,Ulysses,Rickasse,1979-04-29,4066620654,urickasse49@huffingtonpost.com,107,"64 Westerfield Hill","La Paz",474102,NULL,Colombia,1133,Prime
+CUST155,CART155,Noreen,Brister,1978-12-18,3585699171,nbrister4a@delicious.com,32,"44 Buhler Place",Masebewa,531714,NULL,Indonesia,729,Elite
+CUST156,CART156,Neddy,Derry,1981-12-12,4062627431,nderry4b@booking.com,173,"71 Schmedeman Parkway",Töysä,459482,NULL,Finland,NULL,Prime
+CUST157,CART157,Pat,Tavinor,1982-10-31,7449841742,ptavinor4c@cnn.com,126,"28023 Westend Hill",Liujia,426757,NULL,China,4160,Elite
+CUST158,CART158,Mufi,Loiterton,2002-07-27,7335621169,mloiterton4d@who.int,202,"8237 Sutteridge Park",Anlu,414058,NULL,China,741,Elite
+CUST159,CART159,Hilarius,Crilly,1953-04-15,NULL,hcrilly4e@dailymail.co.uk,206,"9765 Russell Place",Psygansu,320114,NULL,Russia,3209,Normal
+CUST160,CART160,Broderick,Toal,1963-04-11,8396842304,btoal4f@clickbank.net,243,"729 Kensington Crossing",Zaporizhzhya,144961,NULL,Ukraine,1531,Normal
+CUST161,CART161,Glen,Blunkett,2004-04-30,6626641467,gblunkett4g@alibaba.com,232,"78 Ruskin Crossing",Meijiang,140622,NULL,China,2747,Normal
+CUST162,CART162,Tricia,Mews,1958-09-06,6754739713,tmews4h@businessinsider.com,115,"16195 Hanover Pass",Ashiya,495179,NULL,Japan,NULL,Prime
+CUST163,CART163,Marcus,John,1967-06-28,9573068499,mjohn4i@mapy.cz,93,"2 Del Mar Lane",Ampahana,502820,NULL,Madagascar,453,Prime
+CUST164,CART164,Benedetto,Tildesley,1979-07-20,5076731988,btildesley4j@zimbio.com,168,"8 Hanover Avenue",Ptghunk’,274842,NULL,Armenia,1772,Elite
+CUST165,CART165,Evaleen,Gunthorp,1965-06-10,3585846108,egunthorp4k@time.com,185,"81322 Everett Drive","Tanjung Timur",186567,NULL,Indonesia,2666,Normal
+CUST166,CART166,Woody,Yeates,1950-11-22,3316814074,wyeates4l@ftc.gov,9,"131 Almo Terrace",Chapadinha,547778,NULL,Brazil,4566,Normal
+CUST167,CART167,Marna,Maughan,1950-12-19,4363103238,mmaughan4m@dailymotion.com,25,"3623 Glendale Junction",Medellin,489676,NULL,Philippines,3599,Prime
+CUST168,CART168,Dmitri,Battaille,1982-01-28,5814236404,dbattaille4n@aol.com,122,"78 Pankratz Road","San Antonio Aguas Calientes",396664,NULL,Guatemala,NULL,Prime
+CUST169,CART169,Fifi,Lawrey,1986-06-27,9923049341,flawrey4o@usgs.gov,242,"8069 Canary Drive",Flórina,253616,NULL,Greece,745,Elite
+CUST170,CART170,Travers,Longhi,1967-01-05,1266237813,tlonghi4p@pen.io,239,"5265 Memorial Way",Bobon,345160,NULL,Philippines,3395,Normal
+CUST171,CART171,Emlyn,Thunderchief,1983-07-21,2786863311,ethunderchief4q@oakley.com,88,"654 Spohn Circle",Krasnokamensk,354929,NULL,Russia,4613,Normal
+CUST172,CART172,Jordan,Saltman,1995-08-14,8381167029,jsaltman4r@mac.com,27,"17868 Arizona Point",Nezvěstice,141777,NULL,"Czech Republic",3498,Prime
+CUST173,CART173,Meg,Gailor,1956-04-05,8162088386,mgailor4s@networkadvertising.org,236,"59 Basil Parkway",Yanghong,432779,NULL,China,4755,Elite
+CUST174,CART174,Noel,Jowers,1960-05-30,NULL,njowers4t@mtv.com,203,"0869 Goodland Drive","Banjar Delodrurung",427361,NULL,Indonesia,NULL,Prime
+CUST175,CART175,Allix,Ulster,1989-01-17,8004711137,aulster4u@bbb.org,104,"93 Mitchell Street",Zvenigorod,271702,NULL,Russia,1922,Elite
+CUST176,CART176,Carmelina,Geleman,1994-11-03,6524895279,cgeleman4v@census.gov,136,"4166 Crest Line Terrace",Kihancha,514213,NULL,Kenya,4518,Prime
+CUST177,CART177,Deina,Burton,1979-09-07,7826322912,dburton4w@mac.com,100,"1 Independence Terrace",Borogontsy,577568,NULL,Russia,3189,Elite
+CUST178,CART178,Maurits,Drewell,1965-11-26,3864654731,mdrewell4x@biglobe.ne.jp,209,"36 Texas Point","Oulad Frej",246158,NULL,Morocco,3986,Normal
+CUST179,CART179,Ardyce,Puttrell,1972-01-01,2824276793,aputtrell4y@telegraph.co.uk,25,"2 Evergreen Drive",Nar'yan-Mar,598257,NULL,Russia,65,Prime
+CUST180,CART180,Ron,Males,1954-04-10,7132663126,rmales4z@usgs.gov,237,"934 Independence Center",Wete,515814,NULL,Tanzania,2766,Elite
+CUST181,CART181,Marlie,Falks,2008-07-25,6166777157,mfalks50@163.com,283,"5412 Cottonwood Crossing",Motala,436358,Östergötland,Sweden,3130,Normal
+CUST182,CART182,Robby,Denver,1987-09-26,7839600153,rdenver51@tinyurl.com,157,"99395 Arrowood Park",Figueiredo,281850,Braga,Portugal,3918,Elite
+CUST183,CART183,Christyna,Elloway,1953-09-11,1279537450,celloway52@timesonline.co.uk,103,"9776 Lawn Way","Kuala Lumpur",336948,"Kuala Lumpur",Malaysia,1826,Normal
+CUST184,CART184,Osmund,Sannes,1987-07-29,3103724614,osannes53@artisteer.com,272,"97680 Rusk Hill",Fresno,469010,California,"United States",1896,Normal
+CUST185,CART185,Marshall,Lansdale,1957-06-18,3431347104,mlansdale54@opera.com,19,"85836 Talisman Parkway",Itiruçu,539551,NULL,Brazil,1330,Normal
+CUST186,CART186,Dyann,Mamwell,2007-04-19,7124279104,dmamwell55@spotify.com,220,"53 Russell Way",Kálymnos,332835,NULL,Greece,102,Prime
+CUST187,CART187,Karney,Rathe,1987-02-18,2999900519,krathe56@creativecommons.org,3,"28 Express Circle",Caihua,384834,NULL,China,3222,Normal
+CUST188,CART188,Cathyleen,Christophers,1990-03-26,8935579552,cchristophers57@rambler.ru,81,"4 Cardinal Circle",Ciechanów,252154,NULL,Poland,4276,Normal
+CUST189,CART189,Vinson,Carnegy,1973-04-26,5874602960,vcarnegy58@purevolume.com,85,"03588 Bayside Alley",Malakhovka,250991,NULL,Russia,2675,Normal
+CUST190,CART190,Grange,Conring,1992-05-20,8527335342,gconring59@e-recht24.de,57,"150 Westridge Drive",Ma’an,230721,NULL,China,985,Normal
+CUST191,CART191,Parker,Tilston,1968-02-19,2533512628,ptilston5a@harvard.edu,24,"52696 Eliot Road","Thị Trấn Mường Lát",435967,NULL,Vietnam,1974,Normal
+CUST192,CART192,Bili,Tilzey,1962-07-13,7279830879,btilzey5b@irs.gov,146,"545 6th Road","Saint Petersburg",182280,Florida,"United States",2128,Prime
+CUST193,CART193,Kacie,Snyder,1969-03-13,8494646250,ksnyder5c@icio.us,65,"83 Commercial Point",Lingkou,335160,NULL,China,1770,Elite
+CUST194,CART194,Eb,Geertsen,1957-07-20,7168917315,egeertsen5d@creativecommons.org,128,"848 Anniversary Park",Dulolong,365051,NULL,Indonesia,4264,Prime
+CUST195,CART195,Idelle,Caldicot,1969-04-19,1385442203,icaldicot5e@nymag.com,238,"5 International Lane",Gaomi,585359,NULL,China,4112,Normal
+CUST196,CART196,Maude,Wrightson,1954-06-15,9985888663,mwrightson5f@cpanel.net,196,"2 Butternut Plaza",Karanganyarkrajan,270899,NULL,Indonesia,2885,Prime
+CUST197,CART197,Lora,Ramsby,1954-10-19,7128882196,lramsby5g@123-reg.co.uk,152,"0 Waubesa Street",Gaozhuang,535662,NULL,China,4110,Normal
+CUST198,CART198,Shane,Cockaday,1981-09-15,2621777016,scockaday5h@latimes.com,155,"08128 Rieder Drive",Ţalkhā,474040,NULL,Egypt,2272,Normal
+CUST199,CART199,Elsie,Reynolds,1963-05-27,7609132155,ereynolds5i@taobao.com,64,"7372 Petterle Lane",Angoram,258827,NULL,"Papua New Guinea",3483,Normal
+CUST200,CART200,Emelda,Wycherley,1975-08-26,1083873002,ewycherley5j@cdbaby.com,55,"06308 Fordem Trail",Terentang,482922,NULL,Indonesia,NULL,Prime
+CUST201,CART201,Trisha,Frissell,2000-09-28,8899575958,tfrissell5k@hatena.ne.jp,142,"455 Colorado Way",Shitang,469305,NULL,China,NULL,Prime
+CUST202,CART202,Janette,Luckman,1958-01-12,NULL,jluckman5l@bigcartel.com,145,"6 Longview Point",Cipatat,311284,NULL,Indonesia,319,Normal
+CUST203,CART203,Harper,Phillput,1966-04-03,2808239333,hphillput5m@fastcompany.com,91,"6 Rutledge Court","Bahía Blanca",594053,NULL,Argentina,NULL,Elite
+CUST204,CART204,Fern,Ruperto,1964-05-16,8085471878,fruperto5n@instagram.com,149,"9544 Steensland Street","Bang Saphan",523977,NULL,Thailand,4966,Elite
+CUST205,CART205,Allard,Edmands,1978-09-05,6125082967,aedmands5o@prweb.com,98,"100 Kenwood Street",Polloc,560017,NULL,Philippines,4746,Prime
+CUST206,CART206,Sybila,Ivell,1984-09-26,4821227885,sivell5p@mediafire.com,269,"9 Lien Avenue",Hongor,400400,NULL,Mongolia,92,Prime
+CUST207,CART207,Tiffani,Ferneley,1987-01-02,1363584642,tferneley5q@cdc.gov,242,"062 Artisan Parkway",Líbano,233063,NULL,Colombia,2024,Prime
+CUST208,CART208,Zenia,Gerner,1959-05-09,1467180959,zgerner5r@wufoo.com,87,"6713 Stuart Street",Rájec-Jestřebí,270181,NULL,"Czech Republic",4901,Elite
+CUST209,CART209,El,Allsobrook,1972-12-14,5524752774,eallsobrook5s@npr.org,92,"52431 Esker Crossing",Budapest,377437,Budapest,Hungary,954,Elite
+CUST210,CART210,Robinson,Chetham,1952-04-25,1252762891,rchetham5t@bigcartel.com,188,"75 Cordelia Park",Atyrau,111079,NULL,Kazakhstan,3244,Elite
+CUST211,CART211,Nettle,Pattenden,1967-11-28,3031189443,npattenden5u@statcounter.com,46,"678 Kedzie Junction",Kerasochóri,290674,NULL,Greece,NULL,Elite
+CUST212,CART212,Lorenza,Gecke,1973-08-07,8979013867,lgecke5v@wsj.com,234,"30 Summerview Junction",Liljendal,305418,NULL,Finland,4376,Normal
+CUST213,CART213,Bevon,Egdell,1993-03-11,8115707601,begdell5w@biblegateway.com,231,"53 Algoma Street",Llorente,166780,NULL,Philippines,4425,Elite
+CUST214,CART214,Quint,McGiffie,1954-10-30,3618147555,qmcgiffie5x@forbes.com,225,"972 Ohio Way",Mozhga,341085,NULL,Russia,192,Elite
+CUST215,CART215,Demetria,Downie,1956-02-24,1714076970,ddownie5y@furl.net,78,"79 Bowman Avenue",Jiangzhou,372455,NULL,China,2299,Prime
+CUST216,CART216,Nadean,Iannuzzi,1973-03-26,9142204289,niannuzzi5z@washingtonpost.com,225,"4 Hanover Lane",Malax,415888,NULL,Finland,2088,Prime
+CUST217,CART217,Hilary,Plaskett,1956-12-16,7792676154,hplaskett60@blinklist.com,94,"8716 Doe Crossing Junction",Winong,456690,NULL,Indonesia,915,Elite
+CUST218,CART218,Daphene,Fitzsymonds,1953-11-16,4848784427,dfitzsymonds61@myspace.com,199,"4 Cambridge Court",Calde,185902,Viseu,Portugal,269,Prime
+CUST219,CART219,Ginger,Quinnelly,1959-02-02,3331480737,gquinnelly62@princeton.edu,73,"6015 Helena Circle",Yiwa,116411,NULL,China,1279,Normal
+CUST220,CART220,Jacqui,Pyke,1973-05-03,2358801889,jpyke63@smh.com.au,11,"13 Garrison Circle",Santana,533909,Setúbal,Portugal,NULL,Prime
+CUST221,CART221,Randy,Scahill,2001-04-13,9665428140,rscahill64@telegraph.co.uk,161,"592 Lyons Parkway","North Bay",213362,Ontario,Canada,3256,Elite
+CUST222,CART222,Margeaux,Marunchak,1999-07-10,5847261841,mmarunchak65@sfgate.com,290,"009 Parkside Park",Otorohanga,128498,NULL,"New Zealand",3818,Elite
+CUST223,CART223,Westbrook,Shackelton,1972-02-08,9365256998,wshackelton66@sphinn.com,234,"0 2nd Circle","Pamyat’ Parizhskoy Kommuny",120273,NULL,Russia,2424,Normal
+CUST224,CART224,Brena,MacFarlan,1983-09-15,1553936498,bmacfarlan67@youku.com,222,"943 Delladonna Lane",Berlin,479379,Berlin,Germany,1027,Prime
+CUST225,CART225,Ellery,Blackborow,1971-02-16,1817941469,eblackborow68@loc.gov,274,"031 Dwight Hill",Qingxi,359247,NULL,China,NULL,Prime
+CUST226,CART226,Kevan,Kew,1998-05-19,8354404638,kkew69@nifty.com,193,"45843 Stoughton Point",Pokrovskoye,452565,NULL,Russia,2214,Normal
+CUST227,CART227,Eve,Acklands,1980-12-30,6969047909,eacklands6a@eventbrite.com,98,"6 Manitowish Hill",Bokor,285839,NULL,Indonesia,973,Normal
+CUST228,CART228,Caesar,Valett,1990-07-23,9654417662,cvalett6b@indiegogo.com,134,"6469 Linden Court","Gondanglegi Wetan",503874,NULL,Indonesia,NULL,Prime
+CUST229,CART229,Vanna,Derisley,1975-01-22,2106905923,vderisley6c@google.com.br,96,"98 Bluejay Terrace","Thành Phố Thái Bình",410409,NULL,Vietnam,3764,Normal
+CUST230,CART230,Deloris,Gidden,1989-07-03,NULL,dgidden6d@flickr.com,200,"1157 Goodland Court",Liozon,455139,NULL,Philippines,4368,Normal
+CUST231,CART231,Fredia,Barnsdale,2007-09-20,9824705839,fbarnsdale6e@ebay.com,214,"79770 Heath Pass",Jhingergācha,218442,NULL,Bangladesh,1520,Elite
+CUST232,CART232,Lianne,Biddleston,2005-09-10,1772016292,lbiddleston6f@umn.edu,58,"78066 Dixon Plaza","New Kingston",238648,NULL,Jamaica,3309,Prime
+CUST233,CART233,Zacharia,Scholling,1951-05-12,6351141026,zscholling6g@sun.com,74,"4930 Bay Circle",Cegłów,149628,NULL,Poland,4290,Prime
+CUST234,CART234,Elke,Elphinston,1971-03-13,1497482728,eelphinston6h@google.com.hk,110,"9 Roxbury Trail",Jammāl,359078,NULL,Tunisia,2000,Elite
+CUST235,CART235,Dugald,Conor,1953-04-06,7495776979,dconor6i@ft.com,68,"1 Pawling Pass",Tulaghi,348751,NULL,"Solomon Islands",3589,Elite
+CUST236,CART236,Yelena,Hartin,1967-02-27,8694914161,yhartin6j@census.gov,29,"6505 Dryden Street",Anzihao,568645,NULL,China,3223,Prime
+CUST237,CART237,Amitie,Laing,1960-07-21,7302337574,alaing6k@facebook.com,163,"85636 Shelley Street",Primošten,399101,NULL,Croatia,2304,Prime
+CUST238,CART238,Petronia,Dunkerton,1970-09-19,NULL,pdunkerton6l@tripod.com,22,"526 John Wall Crossing",Ouésso,153848,NULL,"Republic of the Congo",2576,Prime
+CUST239,CART239,Tony,Bramer,2003-07-21,1525322063,tbramer6m@bbb.org,233,"57229 Pennsylvania Way",Ouaoula,354707,NULL,Morocco,4678,Prime
+CUST240,CART240,Der,Cuniffe,1955-12-02,9771537819,dcuniffe6n@ed.gov,127,"445 Continental Court","Palikir - National Government Center",245648,NULL,Micronesia,823,Prime
+CUST241,CART241,Cross,Eckersley,1956-10-08,4187592354,ceckersley6o@disqus.com,209,"42 Farragut Lane","Biryulëvo Zapadnoye",294542,NULL,Russia,1698,Elite
+CUST242,CART242,Richie,Brabben,2008-04-30,1401044744,rbrabben6p@epa.gov,181,"86593 Muir Avenue",Gritsovskiy,222801,NULL,Russia,78,Prime
+CUST243,CART243,Thaddeus,Pawelek,2006-08-25,3259984176,tpawelek6q@cmu.edu,155,"4 Magdeline Circle","Zaytā Jammā‘īn",331958,NULL,"Palestinian Territory",636,Prime
+CUST244,CART244,Aurthur,Oattes,1986-04-18,9195997942,aoattes6r@baidu.com,54,"4026 Prentice Terrace",Karasuk,476393,NULL,Russia,910,Normal
+CUST245,CART245,Hertha,Sant,1996-12-27,6726219987,hsant6s@sitemeter.com,107,"99171 Golf Center",Garmeh,355913,NULL,Iran,3660,Elite
+CUST246,CART246,Darb,Cersey,1959-11-22,5817382072,dcersey6t@privacy.gov.au,198,"69 Evergreen Point",Boé,360135,Aquitaine,France,293,Elite
+CUST247,CART247,Kamillah,Niemiec,2007-01-03,4013293845,kniemiec6u@rediff.com,282,"1176 Oriole Point",Jinshan,100041,NULL,China,2300,Normal
+CUST248,CART248,Giacinta,Harrild,1967-07-21,2933152729,gharrild6v@ycombinator.com,138,"1 Mayfield Avenue","Cát Bà",383068,NULL,Vietnam,4447,Normal
+CUST249,CART249,Thaddus,Alekseev,2007-12-14,4929372031,talekseev6w@shop-pro.jp,74,"32933 Ilene Circle",Zürich,311522,"Kanton Zürich",Switzerland,2741,Normal
+CUST250,CART250,Daphene,Tucknott,1963-04-17,6447215684,dtucknott6x@surveymonkey.com,177,"231 Mayfield Crossing",Veyno,326978,NULL,Belarus,2573,Normal
+CUST251,CART251,Constance,Bough,1957-09-28,3009847980,cbough6y@japanpost.jp,179,"3 Sunnyside Avenue",Śmiłowo,356693,NULL,Poland,3122,Prime
+CUST252,CART252,Elsworth,Paget,1990-02-24,7609322261,epaget6z@ihg.com,178,"56 Grim Hill",Strzelin,287021,NULL,Poland,1490,Elite
+CUST253,CART253,Bonnie,Fussie,1990-07-28,6994605981,bfussie70@printfriendly.com,30,"99 Cody Pass",Baroh,420973,NULL,Indonesia,2308,Prime
+CUST254,CART254,Reine,Lomis,1951-06-19,NULL,rlomis71@squidoo.com,40,"5256 Dorton Pass",Nanfeng,476309,NULL,China,2765,Normal
+CUST255,CART255,Antoni,Larret,2006-07-23,6222937314,alarret72@cocolog-nifty.com,271,"70547 Gulseth Court","San Juan",260097,NULL,Argentina,4255,Prime
+CUST256,CART256,Gard,Demaine,1991-06-02,6208888582,gdemaine73@51.la,128,"4 Talmadge Crossing",Nangakeo,393488,NULL,Indonesia,3847,Prime
+CUST257,CART257,Sydelle,Amoore,1972-03-02,4492357653,samoore74@skyrock.com,37,"116 Hanson Trail",Quillabamba,357213,NULL,Peru,3797,Elite
+CUST258,CART258,Renard,Skeel,1964-10-21,3393553986,rskeel75@washington.edu,271,"82 Oriole Park",Aiximan,150674,NULL,China,4368,Elite
+CUST259,CART259,Carr,Shakeshaft,1995-04-03,8324214248,cshakeshaft76@virginia.edu,116,"1 Westport Street",Tartu,498947,NULL,Estonia,49,Normal
+CUST260,CART260,Ashia,Hackney,1996-10-18,6168393008,ahackney77@japanpost.jp,89,"183 Anderson Court",Cikubang,153929,NULL,Indonesia,NULL,Elite
+CUST261,CART261,Dionne,Oxlee,1952-11-07,2443396288,doxlee78@nytimes.com,121,"1634 Ridgeway Avenue",Moncada,453210,NULL,Philippines,2170,Normal
+CUST262,CART262,Nancy,Shelford,1956-06-21,1535916449,nshelford79@parallels.com,14,"835 Porter Court",Chornoliztsi,320276,NULL,Ukraine,NULL,Elite
+CUST263,CART263,Melly,Seed,1968-01-24,5833818009,mseed7a@sbwire.com,135,"0700 Briar Crest Hill","Al Khirāb",197660,NULL,Yemen,1630,Elite
+CUST264,CART264,Bobby,Piggin,1950-08-19,8702126962,bpiggin7b@tamu.edu,179,"871 Clyde Gallagher Place",Qingyun,301208,NULL,China,2970,Normal
+CUST265,CART265,Noble,Yarn,1988-06-16,8063592674,nyarn7c@yandex.ru,129,"8 Center Parkway",Long’anqiao,298704,NULL,China,2584,Prime
+CUST266,CART266,Aldon,Heffernon,1981-03-10,8327057975,aheffernon7d@skype.com,29,"565 Oak Avenue","Tsuen Wan",180472,NULL,"Hong Kong",3627,Normal
+CUST267,CART267,Hilly,Simenot,2006-04-14,9209429914,hsimenot7e@ca.gov,42,"908 Delaware Crossing","Lazaro Cardenas",572822,"Veracruz Llave",Mexico,4507,Prime
+CUST268,CART268,Juliette,Leyre,1958-03-10,7883219109,jleyre7f@nyu.edu,24,"82 Upham Park",Triolet,240054,NULL,Mauritius,4342,Prime
+CUST269,CART269,Lesya,Alabaster,1990-01-05,8854936087,lalabaster7g@rambler.ru,184,"714 Springs Street",Nürnberg,491191,Bayern,Germany,NULL,Elite
+CUST270,CART270,Licha,Drivers,1980-06-27,6165375163,ldrivers7h@ehow.com,191,"481 Pond Avenue",Itaituba,461298,NULL,Brazil,3659,Prime
+CUST271,CART271,Dode,Fuzzey,1987-10-16,3821920948,dfuzzey7i@wp.com,53,"993 Charing Cross Court",Quintã,265616,Aveiro,Portugal,1931,Prime
+CUST272,CART272,Dewain,Parkhouse,2005-10-26,7677241605,dparkhouse7j@sogou.com,11,"232 Muir Crossing",Melita,443343,Manitoba,Canada,2756,Normal
+CUST273,CART273,Adda,Wormald,1996-04-25,1449323739,awormald7k@mapquest.com,100,"05941 Duke Point",Cennan,358056,NULL,China,4984,Prime
+CUST274,CART274,Charlotte,Middleditch,1974-02-10,6428549421,cmiddleditch7l@cocolog-nifty.com,116,"458 Village Green Crossing",Aix-les-Bains,221976,Rhône-Alpes,France,4258,Prime
+CUST275,CART275,Nari,Pick,2003-06-18,6053815687,npick7m@va.gov,57,"0819 Jenifer Junction",Shicang,149907,NULL,China,3512,Normal
+CUST276,CART276,Barnaby,Krystek,1984-03-27,2248784664,bkrystek7n@ihg.com,148,"99 Laurel Crossing","Phak Hai",291367,NULL,Thailand,48,Elite
+CUST277,CART277,Brod,Fasset,2004-10-27,3477859518,bfasset7o@accuweather.com,166,"1638 Merchant Park",Sierakowice,313612,NULL,Poland,2543,Normal
+CUST278,CART278,Rubin,Mealand,1997-12-29,6661914745,rmealand7p@plala.or.jp,232,"7 Debs Way",Singaraja,228921,NULL,Indonesia,3014,Normal
+CUST279,CART279,Clywd,Emilien,2009-05-30,8121847936,cemilien7q@bravesites.com,134,"57109 Warbler Alley",Sedlčany,366188,NULL,"Czech Republic",1428,Prime
+CUST280,CART280,Helenelizabeth,Huglin,1964-05-20,1452452695,hhuglin7r@admin.ch,289,"06358 Northridge Place",Chengfeng,378600,NULL,China,3877,Prime
+CUST281,CART281,Britney,Waterhowse,1981-10-09,8999293784,bwaterhowse7s@tinyurl.com,15,"67521 Rigney Alley",Chýnov,400002,NULL,"Czech Republic",4654,Prime
+CUST282,CART282,Electra,Romke,1966-12-21,NULL,eromke7t@flavors.me,59,"0793 Londonderry Way",Seydi,307738,NULL,Turkmenistan,157,Elite
+CUST283,CART283,Linell,Girardi,1994-05-21,1232738863,lgirardi7u@ezinearticles.com,107,"9 Jay Center",Quba,450123,NULL,Azerbaijan,4916,Elite
+CUST284,CART284,Regine,Spriggin,1959-10-13,8252066138,rspriggin7v@usa.gov,26,"86 Maywood Crossing",Przelewice,560902,NULL,Poland,NULL,Normal
+CUST285,CART285,Binnie,Northedge,1980-04-19,4524661556,bnorthedge7w@w3.org,226,"52078 Morning Circle","Verkhniy Rohachyk",578355,NULL,Ukraine,NULL,Elite
+CUST286,CART286,Talya,Coe,1972-04-26,7301757855,tcoe7x@lycos.com,241,"73 Ridgeway Circle",Noebesa,509600,NULL,Indonesia,2010,Elite
+CUST287,CART287,Teddie,Garfath,1967-07-29,NULL,tgarfath7y@marketwatch.com,151,"285 Arrowood Hill",Astromil,117965,Porto,Portugal,1049,Prime
+CUST288,CART288,Lawry,Aldis,2000-10-19,2028783058,laldis7z@infoseek.co.jp,150,"7615 Westend Court","Cabo de Vila",179634,Porto,Portugal,4893,Normal
+CUST289,CART289,Hillel,Minney,1995-05-31,1904799342,hminney80@earthlink.net,130,"39571 Towne Point",Lenīnskīy,496715,NULL,Kazakhstan,1397,Prime
+CUST290,CART290,Latrina,Humburton,2002-09-14,8221633944,lhumburton81@home.pl,79,"44 Meadow Vale Crossing",Heerlen,393257,"Provincie Limburg",Netherlands,963,Elite
+CUST291,CART291,Lelah,Stribbling,1950-09-04,9804018486,lstribbling82@acquirethisname.com,6,"916 Drewry Avenue",København,392248,"Region Hovedstaden",Denmark,4350,Prime
+CUST292,CART292,Dougy,Joynes,1961-02-02,6722515157,djoynes83@sitemeter.com,21,"184 Northview Center",Świdwin,400882,NULL,Poland,504,Prime
+CUST293,CART293,Laurella,Matteuzzi,1952-08-31,9653159498,lmatteuzzi84@sohu.com,6,"969 Messerschmidt Hill","Áno Kómi",296814,NULL,Greece,1835,Prime
+CUST294,CART294,Filippo,Piller,1969-11-19,9213297908,fpiller85@360.cn,20,"463 Mcguire Way",Tabant,504546,NULL,Morocco,3605,Normal
+CUST295,CART295,Remington,Mumm,1951-04-02,5461619880,rmumm86@spotify.com,206,"8 New Castle Center",Huangling,351388,NULL,China,110,Elite
+CUST296,CART296,Melody,Sprott,1990-12-04,6624880547,msprott87@wsj.com,39,"4766 Kropf Terrace",Huajlaya,299955,NULL,Bolivia,2624,Normal
+CUST297,CART297,Suzi,Radbourne,1978-02-17,6032288436,sradbourne88@answers.com,38,"91 Clyde Gallagher Park","Dūrā al Qar‘",134696,NULL,"Palestinian Territory",1289,Elite
+CUST298,CART298,Lazaro,Kenrat,1958-09-13,1139971445,lkenrat89@moonfruit.com,209,"9 Rieder Circle",Dhahi,381927,NULL,Yemen,1620,Elite
+CUST299,CART299,Odelinda,Wormell,1974-02-20,9735872488,owormell8a@msu.edu,56,"9363 Kennedy Drive",Kende,249447,NULL,Nigeria,2639,Normal
+CUST300,CART300,Tim,Linning,1957-02-26,5901459343,tlinning8b@miibeian.gov.cn,203,"5876 Lunder Drive",Duraznopampa,597650,NULL,Peru,4500,Prime
+CUST301,CART301,Adorne,Tomsen,1975-04-11,2804945757,atomsen8c@bravesites.com,234,"4962 Maywood Center","Bun Barat",428218,NULL,Indonesia,3621,Elite
+CUST302,CART302,Oliviero,Chattington,1969-11-13,1685762539,ochattington8d@alexa.com,274,"1809 Butternut Road","Las Carreras",206069,NULL,Bolivia,1533,Prime
+CUST303,CART303,Dasha,"St Angel",2005-10-15,9276513430,dstangel8e@umn.edu,155,"3028 Prairie Rose Lane",Portel,186222,NULL,Brazil,3280,Prime
+CUST304,CART304,Josiah,Shurmer,2008-04-11,7372978828,jshurmer8f@amazon.co.uk,208,"4 Heath Parkway",Yur’yevets,124916,NULL,Russia,2995,Normal
+CUST305,CART305,Rex,Mullender,1968-02-07,2172402076,rmullender8g@slate.com,269,"38 Arkansas Center",Xinquansi,186226,NULL,China,363,Prime
+CUST306,CART306,Travus,Vickars,1996-10-10,NULL,tvickars8h@cdbaby.com,237,"850 Alpine Crossing","Sobral da Abelheira",139360,Lisboa,Portugal,1762,Normal
+CUST307,CART307,Bartlet,Erickssen,1968-02-23,4668988497,berickssen8i@cbslocal.com,119,"2 Alpine Plaza",Pagak,192557,NULL,Indonesia,2869,Normal
+CUST308,CART308,Janka,Novotni,1994-02-19,8233270413,jnovotni8j@marketwatch.com,235,"499 Myrtle Place",Qindu,415517,NULL,China,478,Prime
+CUST309,CART309,Valerie,Roxburgh,1958-09-11,2062090648,vroxburgh8k@slideshare.net,9,"47347 Steensland Parkway","Jablonec nad Jizerou",517217,NULL,"Czech Republic",574,Elite
+CUST310,CART310,Sheridan,MacNab,1974-11-30,7035956710,smacnab8l@ehow.com,118,"0 Milwaukee Drive",Ribeiro,304087,Viseu,Portugal,345,Elite
+CUST311,CART311,Misty,Retallack,1968-03-12,1202018447,mretallack8m@wikispaces.com,33,"36093 Eagle Crest Crossing",Liangnong,144719,NULL,China,1992,Prime
+CUST312,CART312,Stephie,Oakman,1999-08-11,8845957689,soakman8n@oracle.com,56,"735 Di Loreto Place",Cabcaben,111247,NULL,Philippines,827,Normal
+CUST313,CART313,Dalenna,M'Chirrie,1987-09-18,7812614800,dmchirrie8o@xing.com,248,"30 Riverside Court",Stockholm,597895,Stockholm,Sweden,4858,Normal
+CUST314,CART314,Suzie,Tittershill,1951-02-16,8602097707,stittershill8p@twitter.com,212,"0 Memorial Place",Taojiahe,577192,NULL,China,2396,Prime
+CUST315,CART315,Nalani,Beere,1951-01-30,4027484506,nbeere8q@harvard.edu,226,"198 Derek Court",Ulme,211718,Santarém,Portugal,NULL,Normal
+CUST316,CART316,Burton,Crosoer,1983-05-28,7112962144,bcrosoer8r@lulu.com,119,"89 Dayton Drive",Tuxi,223370,NULL,China,4049,Prime
+CUST317,CART317,Carolan,Denecamp,2007-08-27,7916741243,cdenecamp8s@stanford.edu,6,"7898 Weeping Birch Street","Nor Yerznka",421266,NULL,Armenia,279,Prime
+CUST318,CART318,Philbert,Rief,1972-10-28,8244072961,prief8t@blogspot.com,89,"2 Clove Hill",Longford,192293,NULL,Ireland,433,Normal
+CUST319,CART319,Man,Sydry,1994-07-21,7964501699,msydry8u@prlog.org,136,"06610 Roxbury Trail",Omiš,451656,NULL,Croatia,NULL,Normal
+CUST320,CART320,Beauregard,Verryan,1977-04-16,8032218080,bverryan8v@php.net,228,"7 Old Shore Plaza",Jinping,596052,NULL,China,1849,Prime
+CUST321,CART321,Clerissa,Wallage,1964-01-07,7989153608,cwallage8w@addtoany.com,9,"0598 Towne Place",Hlybokaye,353907,NULL,Belarus,602,Elite
+CUST322,CART322,Pasquale,Dudmarsh,1994-09-22,1288123515,pdudmarsh8x@surveymonkey.com,293,"74108 Transport Way",Shwebo,583311,NULL,Myanmar,148,Normal
+CUST323,CART323,Eduardo,Rossoni,1967-06-17,3524303254,erossoni8y@nydailynews.com,279,"292 Mendota Road","Rio Pardo",415483,NULL,Brazil,3693,Normal
+CUST324,CART324,Dylan,Hyrons,1953-05-02,NULL,dhyrons8z@europa.eu,106,"4 La Follette Point",Plumbon,322611,NULL,Indonesia,4074,Prime
+CUST325,CART325,Preston,Hagwood,1950-04-27,8983613123,phagwood90@mail.ru,9,"39 Clove Street","Pandangan Kulon",153883,NULL,Indonesia,1687,Normal
+CUST326,CART326,Yankee,Haselhurst,1957-10-26,6471142295,yhaselhurst91@ted.com,87,"5 Dovetail Way","Rio Novo do Sul",525860,NULL,Brazil,2780,Normal
+CUST327,CART327,Raynell,Marion,2000-01-19,7527980170,rmarion92@cbslocal.com,225,"12 Spenser Street",Wujingfu,230320,NULL,China,187,Elite
+CUST328,CART328,Paxon,Goodall,1976-02-09,6474029766,pgoodall93@spotify.com,233,"4301 Gulseth Avenue",Torzhok,159905,NULL,Russia,1456,Normal
+CUST329,CART329,Lamond,Hallatt,2004-01-21,6469299569,lhallatt94@taobao.com,279,"742 Luster Drive",Kochani,516036,NULL,Macedonia,631,Normal
+CUST330,CART330,Eldredge,McConnulty,1970-03-21,9967957036,emcconnulty95@sohu.com,250,"5 Claremont Hill",Sorol,274297,NULL,Micronesia,NULL,Prime
+CUST331,CART331,Nessie,McCaskill,2002-09-30,5159294883,nmccaskill96@nasa.gov,209,"2906 Menomonie Way",Itauguá,522259,NULL,Paraguay,780,Normal
+CUST332,CART332,Marcellus,Ready,1959-10-06,1948104731,mready97@nationalgeographic.com,29,"9 Tony Crossing",Henggang,475090,NULL,China,4566,Elite
+CUST333,CART333,Cathyleen,Toulamain,1976-02-15,8141740365,ctoulamain98@berkeley.edu,134,"5479 Anniversary Park",Mukō,304697,NULL,Japan,3340,Prime
+CUST334,CART334,Jeremias,Colombier,1991-06-14,1057188920,jcolombier99@examiner.com,27,"21432 Pleasure Point",Centenary,116305,NULL,Zimbabwe,3508,Elite
+CUST335,CART335,Paolo,Paddington,1993-05-06,4216241515,ppaddington9a@nature.com,195,"0966 Ruskin Park",Jingxin,424118,NULL,China,621,Normal
+CUST336,CART336,Farrel,Halfacree,1983-06-24,3548035064,fhalfacree9b@cbslocal.com,160,"39212 Continental Way",Petrópolis,484662,NULL,Brazil,1681,Prime
+CUST337,CART337,Angela,Coit,1952-10-14,4437489574,acoit9c@usnews.com,240,"585 Stuart Hill",Ježdovec,310053,NULL,Croatia,4145,Prime
+CUST338,CART338,Marie,Clemoes,2001-03-21,8461555693,mclemoes9d@goodreads.com,21,"5 Carioca Way",Nankou,144446,NULL,China,2298,Prime
+CUST339,CART339,Quentin,Stokell,1957-03-12,NULL,qstokell9e@usnews.com,55,"422 Havey Trail",Shazhenxi,118998,NULL,China,NULL,Prime
+CUST340,CART340,Kippie,Lorenz,1986-06-02,3667054544,klorenz9f@pagesperso-orange.fr,12,"0 Algoma Park",Kali,543611,NULL,Indonesia,1905,Normal
+CUST341,CART341,Griffin,Govan,1990-09-12,6436107571,ggovan9g@google.nl,262,"53 Novick Place",Takedamachi,170990,NULL,Japan,2838,Elite
+CUST342,CART342,Minette,Featley,1961-12-24,8485185226,mfeatley9h@ucla.edu,123,"1610 Ronald Regan Park",Nogent-sur-Marne,135811,Île-de-France,France,1247,Prime
+CUST343,CART343,Leeanne,Dodgson,2007-12-14,2815046255,ldodgson9i@simplemachines.org,36,"11274 Declaration Plaza",Houston,100751,Texas,"United States",3304,Elite
+CUST344,CART344,Hana,Elflain,1988-08-01,4906645742,helflain9j@theglobeandmail.com,31,"5653 Dapin Way",Smithers,321602,"British Columbia",Canada,1015,Prime
+CUST345,CART345,Noe,Mowne,2001-10-23,4361630855,nmowne9k@samsung.com,267,"11440 Darwin Lane",Maiwang,211258,NULL,China,3167,Normal
+CUST346,CART346,Anatole,Pengilley,1964-12-13,7675402472,apengilley9l@ted.com,55,"4 Hallows Park",Sanyantang,331232,NULL,China,366,Elite
+CUST347,CART347,Martica,Culpen,1951-03-23,4474608970,mculpen9m@princeton.edu,8,"110 Sherman Drive",Açu,479706,NULL,Brazil,1442,Normal
+CUST348,CART348,Inglebert,McElhargy,1996-10-17,6578377040,imcelhargy9n@g.co,115,"9982 Lakewood Gardens Crossing","Kafr Zaytā",488910,NULL,Syria,557,Prime
+CUST349,CART349,Ardith,Halewood,1961-11-06,5095921283,ahalewood9o@thetimes.co.uk,186,"6 Kinsman Terrace","Lazaro Cardenas",119445,Tamaulipas,Mexico,974,Elite
+CUST350,CART350,Wiley,Bagger,2006-04-22,5784789574,wbagger9p@dot.gov,255,"602 Dexter Parkway",Jiulongshan,456689,NULL,China,975,Elite
+CUST351,CART351,Diena,Studman,1973-12-29,8475318890,dstudman9q@theatlantic.com,225,"994 Gulseth Crossing",Haligue,441013,NULL,Philippines,NULL,Elite
+CUST352,CART352,Fabe,Perocci,1977-09-09,2989610180,fperocci9r@quantcast.com,216,"08 Victoria Crossing",Moshkovo,102140,NULL,Russia,251,Normal
+CUST353,CART353,Ade,Gilleon,1959-08-28,5167722885,agilleon9s@ihg.com,113,"4034 Derek Plaza",Shikhany,344724,NULL,Russia,2596,Elite
+CUST354,CART354,Jemima,Panketh,1981-06-29,NULL,jpanketh9t@si.edu,24,"052 Becker Road",Pomerode,427742,NULL,Brazil,239,Normal
+CUST355,CART355,Zack,Ickowics,2006-08-02,3873369109,zickowics9u@admin.ch,75,"52 Sunfield Circle","Starý Bohumín",285820,NULL,"Czech Republic",NULL,Prime
+CUST356,CART356,Kimberli,Cleever,1994-06-15,2793034463,kcleever9v@csmonitor.com,112,"3 Prentice Crossing",Avranches,431780,Basse-Normandie,France,1391,Elite
+CUST357,CART357,Chrissie,Crystal,1991-12-21,1968418377,ccrystal9w@people.com.cn,40,"233 Thackeray Parkway",Lanjaghbyur,591624,NULL,Armenia,1133,Elite
+CUST358,CART358,Augy,Wyldbore,1988-09-06,6005619126,awyldbore9x@dagondesign.com,166,"4014 Independence Center",Jiannan,458105,NULL,China,3516,Elite
+CUST359,CART359,Toma,Mandy,1962-03-14,8103909633,tmandy9y@angelfire.com,210,"26488 Garrison Plaza",Buenavista,514327,Tamaulipas,Mexico,1268,Normal
+CUST360,CART360,Xavier,Ors,2009-11-04,7248149803,xors9z@weather.com,283,"7 Stuart Plaza",Borås,244509,"Västra Götaland",Sweden,NULL,Normal
+CUST361,CART361,Rosaleen,Oganesian,1987-01-24,5074176315,roganesiana0@booking.com,48,"9 Oak Hill",Nybro,220316,Kalmar,Sweden,1186,Prime
+CUST362,CART362,Boyce,Reddish,1975-08-22,NULL,breddisha1@netscape.com,20,"911 Anniversary Center",Lukou,394484,NULL,China,670,Normal
+CUST363,CART363,Winfred,Harold,1974-10-09,7662658996,wharolda2@domainmarket.com,231,"4 Holmberg Court",Chone,563141,NULL,Ecuador,3975,Normal
+CUST364,CART364,Marris,Mayberry,2003-01-14,8298289875,mmayberrya3@multiply.com,300,"969 Del Mar Lane",Haveluloto,482892,NULL,Tonga,NULL,Normal
+CUST365,CART365,Gale,Buckles,1959-01-09,7376468414,gbucklesa4@apache.org,45,"33367 Ridgeview Pass","Karangagung Timur",203213,NULL,Indonesia,1198,Normal
+CUST366,CART366,Pierette,Teather,1990-10-17,8198446629,pteathera5@imdb.com,26,"67443 Monument Terrace",Boshi,131121,NULL,China,1877,Prime
+CUST367,CART367,Antoinette,Swindall,1958-01-26,6838695394,aswindalla6@dropbox.com,249,"3714 Nobel Parkway",Chengdong,598382,NULL,China,4763,Prime
+CUST368,CART368,Cris,Espadero,1997-08-17,2027449544,cespaderoa7@geocities.jp,141,"11 Butterfield Park",Lindavista,320530,"Veracruz Llave",Mexico,598,Normal
+CUST369,CART369,Abagail,Derrell,1985-05-04,6831413529,aderrella8@reference.com,244,"66402 Comanche Lane",Yuanjiazhuang,298426,NULL,China,1740,Normal
+CUST370,CART370,Micheil,Streeting,1975-04-19,9232374373,mstreetinga9@cargocollective.com,95,"002 Bowman Plaza",Itoman,578771,NULL,Japan,2739,Prime
+CUST371,CART371,Amara,Krochmann,2004-01-07,1179287445,akrochmannaa@examiner.com,190,"3542 Hanson Road",Moquegua,253994,NULL,Peru,1236,Elite
+CUST372,CART372,Ania,Shakspeare,1977-08-18,4048868943,ashakspeareab@histats.com,206,"2689 Daystar Parkway",Kungsör,262856,Västmanland,Sweden,1460,Elite
+CUST373,CART373,Ron,Presnall,1983-03-07,7694936401,rpresnallac@berkeley.edu,165,"59179 Ludington Alley",Bilaran,289524,NULL,Philippines,3810,Elite
+CUST374,CART374,Lynnette,Silver,1962-02-10,4996083370,lsilverad@addtoany.com,296,"42 Bunker Hill Place","La Mula",526475,NULL,Venezuela,1819,Prime
+CUST375,CART375,Wilhelmina,McKendry,2003-02-15,5014783184,wmckendryae@pcworld.com,64,"6 Huxley Avenue",Tanenofunan,130125,NULL,Indonesia,491,Elite
+CUST376,CART376,Smitty,Treamayne,1962-08-24,4139844122,streamayneaf@princeton.edu,167,"5216 New Castle Way",Ipís,329246,NULL,"Costa Rica",1563,Prime
+CUST377,CART377,Tomasine,Fonso,2004-12-04,8465492340,tfonsoag@netscape.com,136,"3639 Texas Road",Dunmanway,334105,NULL,Ireland,4176,Elite
+CUST378,CART378,Dannie,Ostick,1985-10-18,8799274944,dostickah@cbsnews.com,196,"0536 Westridge Alley",Camajuaní,232951,NULL,Cuba,821,Normal
+CUST379,CART379,Koo,Otley,1990-02-13,7611212412,kotleyai@imdb.com,295,"6080 Declaration Place","La Reforma",357791,NULL,Guatemala,3251,Normal
+CUST380,CART380,Sanderson,Nevitt,1975-07-30,9418942391,snevittaj@cyberchimps.com,34,"7 Maryland Street",Daqiao,452614,NULL,China,2460,Elite
+CUST381,CART381,Joanie,Tames,1969-01-13,1292430301,jtamesak@i2i.jp,87,"550 Havey Parkway",Tetebatu,139376,NULL,Indonesia,513,Elite
+CUST382,CART382,Prudi,Eates,1950-08-16,1877415414,peatesal@tmall.com,300,"96 Russell Junction",Ndewel,297798,NULL,Indonesia,4054,Elite
+CUST383,CART383,Marchelle,Monk,1963-03-26,4331772891,mmonkam@cdbaby.com,153,"5427 Armistice Hill",Gap,531587,"Provence-Alpes-Côte d'Azur",France,1915,Normal
+CUST384,CART384,Jackie,Orto,1957-05-29,7052705306,jortoan@zdnet.com,25,"6444 Dapin Center",Pining,138867,NULL,Indonesia,NULL,Normal
+CUST385,CART385,Lu,Willey,1980-09-26,5644245554,lwilleyao@blog.com,175,"8 Heffernan Street",Zdice,537718,NULL,"Czech Republic",3642,Normal
+CUST386,CART386,Teddy,Finder,1955-06-24,6664658116,tfinderap@gnu.org,45,"4169 Spenser Pass",Hucheng,357079,NULL,China,3516,Prime
+CUST387,CART387,Cathryn,Everly,1991-02-26,4702082919,ceverlyaq@google.pl,41,"759 Kennedy Center",Liuduzhai,489472,NULL,China,1346,Elite
+CUST388,CART388,Pauletta,Lukianovich,1972-07-31,3651334144,plukianovichar@i2i.jp,116,"780 Westport Parkway","Sa Kaeo",376331,NULL,Thailand,737,Prime
+CUST389,CART389,Franni,Paske,1981-10-14,8835504993,fpaskeas@xing.com,147,"83 2nd Way","Bagong Sikat",462908,NULL,Philippines,4055,Elite
+CUST390,CART390,Franklin,Saywell,1998-09-26,3378843666,fsaywellat@about.me,37,"3308 Superior Road",Hongqiao,323967,NULL,China,3821,Elite
+CUST391,CART391,Alisha,"Dell Casa",1981-10-21,9828883664,adellcasaau@blogspot.com,40,"7560 Lillian Drive",Ngampon,369915,NULL,Indonesia,NULL,Prime
+CUST392,CART392,Dian,Spino,1973-08-04,8284045008,dspinoav@xing.com,260,"2642 Roth Hill",Shumikha,439693,NULL,Russia,2998,Elite
+CUST393,CART393,Karola,Cerith,1958-10-24,7057163719,kcerithaw@w3.org,111,"9 Sullivan Street",Pārūn,381488,NULL,Afghanistan,3028,Elite
+CUST394,CART394,Boony,Annion,1978-12-29,2273127167,bannionax@nifty.com,279,"787 Leroy Pass",Junxi,382213,NULL,China,4469,Elite
+CUST395,CART395,Ninette,Tabrett,2000-03-24,7342361504,ntabrettay@newsvine.com,261,"74 Annamark Terrace",Jonkowo,183007,NULL,Poland,2493,Elite
+CUST396,CART396,Myrlene,Twinborough,1967-05-30,1909432107,mtwinboroughaz@instagram.com,68,"1549 Vahlen Lane","San Onofre",553353,NULL,Colombia,2590,Normal
+CUST397,CART397,Dirk,Paintain,2000-07-06,9745148120,dpaintainb0@marriott.com,173,"9 Fairfield Avenue","Mali Iđoš",227857,NULL,Serbia,1888,Prime
+CUST398,CART398,Coreen,Rizzelli,1969-11-02,6513088020,crizzellib1@so-net.ne.jp,272,"135 Armistice Road",Zalewo,433744,NULL,Poland,4591,Normal
+CUST399,CART399,Derril,Ginnell,1953-06-30,1107108058,dginnellb2@zimbio.com,256,"70 Sage Way",Pandanrejokrajan,537855,NULL,Indonesia,3082,Prime
+CUST400,CART400,Gay,Marshal,1995-09-30,5751844802,gmarshalb3@odnoklassniki.ru,243,"5 3rd Road","Biên Hòa",254552,NULL,Vietnam,4998,Normal
+CUST401,CART401,Genni,Gerrard,1978-04-27,3313632946,ggerrardb4@va.gov,100,"35564 Summerview Parkway",Vrbas,552221,NULL,Serbia,679,Prime
+CUST402,CART402,Waylan,Freeman,1986-10-24,6412909022,wfreemanb5@ftc.gov,63,"37 Bunting Alley","Bala Murghab",522098,NULL,Afghanistan,4797,Normal
+CUST403,CART403,Christophorus,Ruspine,2003-02-21,3296343632,cruspineb6@canalblog.com,35,"0 Marquette Crossing",Orsk,383115,NULL,Russia,3098,Normal
+CUST404,CART404,Adda,Gelderd,1980-06-30,5315245228,agelderdb7@nhs.uk,168,"091 Summerview Lane",Xike,107210,NULL,China,4617,Normal
+CUST405,CART405,Leticia,Olver,1957-09-23,NULL,lolverb8@de.vu,281,"89 Sunnyside Circle",Zhangyang,189495,NULL,China,1000,Prime
+CUST406,CART406,Rosamund,Roullier,1976-10-02,1338667513,rroullierb9@prnewswire.com,48,"7250 Porter Center",Amherst,304902,"Nova Scotia",Canada,2296,Elite
+CUST407,CART407,Grange,Turnor,1985-06-02,5731273604,gturnorba@booking.com,74,"1 Harbort Trail",Xiaoguan,550406,NULL,China,53,Elite
+CUST408,CART408,Vassili,Thrustle,1994-06-28,2504733240,vthrustlebb@businesswire.com,60,"93 Esch Plaza",Belawang,207935,NULL,Indonesia,NULL,Normal
+CUST409,CART409,Ebony,Abrahmer,2006-10-25,6706107345,eabrahmerbc@google.pl,173,"67 Bobwhite Avenue",Wukang,114821,NULL,China,2873,Normal
+CUST410,CART410,Erie,I'anson,1954-03-08,NULL,eiansonbd@networkadvertising.org,179,"055 Badeau Way",Badong,596852,NULL,Indonesia,4862,Prime
+CUST411,CART411,Hadrian,Glanister,1953-09-28,2339423356,hglanisterbe@bluehost.com,175,"99331 Maywood Pass",Schieren,301111,NULL,Luxembourg,NULL,Prime
+CUST412,CART412,Cati,Rennels,1981-11-02,8829845105,crennelsbf@godaddy.com,165,"86 Westridge Street",Sungaiduri,243975,NULL,Indonesia,NULL,Normal
+CUST413,CART413,Carmen,Mawhinney,1975-06-07,4986447701,cmawhinneybg@pinterest.com,222,"0818 Magdeline Lane",Yantan,529416,NULL,China,4201,Elite
+CUST414,CART414,Tony,Impy,1996-12-01,3982348338,timpybh@webnode.com,143,"00 School Avenue",Porkhov,265318,NULL,Russia,2344,Prime
+CUST415,CART415,Clarisse,O'Concannon,1962-03-12,6405499882,coconcannonbi@blogtalkradio.com,124,"404 Nova Avenue",Nunsena,368632,NULL,Indonesia,396,Elite
+CUST416,CART416,Swen,Dowzell,2006-10-13,2818347519,sdowzellbj@lycos.com,119,"1929 Maple Trail","Wysoka Strzyżowska",507582,NULL,Poland,535,Normal
+CUST417,CART417,Cristal,Marjanski,1974-03-12,7069424463,cmarjanskibk@examiner.com,254,"5013 Jenifer Avenue",Täby,331068,Stockholm,Sweden,515,Elite
+CUST418,CART418,Sandie,Yeates,1989-08-08,4228444928,syeatesbl@1688.com,187,"698 Hoepker Trail",Fengtai,421310,NULL,China,1725,Prime
+CUST419,CART419,Granville,Roake,1977-02-26,5707826766,groakebm@phoca.cz,232,"6117 Hallows Alley","Casal da Anja",119361,Leiria,Portugal,3254,Elite
+CUST420,CART420,Eula,Wilding,1952-08-17,2028032062,ewildingbn@wunderground.com,278,"3 Westridge Lane",Pulo,443066,NULL,Philippines,3582,Normal
+CUST421,CART421,Anderson,Hampstead,2008-03-22,3546853870,ahampsteadbo@dion.ne.jp,90,"73 Sugar Trail",Gnosjö,586671,Jönköping,Sweden,3122,Prime
+CUST422,CART422,Beryle,Shilling,2006-12-02,3216857604,bshillingbp@eepurl.com,178,"40 Grayhawk Road",Nezvěstice,282910,NULL,"Czech Republic",915,Prime
+CUST423,CART423,Stanislas,MacGauhy,1954-06-17,8181063871,smacgauhybq@theguardian.com,121,"671 Merry Circle",Gjinkar,111381,NULL,Albania,277,Prime
+CUST424,CART424,Hester,Picker,1966-03-04,5944380928,hpickerbr@qq.com,156,"790 Golf View Trail","Krong Pi Nang",255040,NULL,Thailand,247,Elite
+CUST425,CART425,Roselia,Scollick,1970-02-27,9388645542,rscollickbs@ucla.edu,182,"9559 Fair Oaks Trail",Fizuli,597140,NULL,Azerbaijan,4017,Normal
+CUST426,CART426,Harlie,Fogel,1975-07-20,NULL,hfogelbt@mozilla.com,82,"3695 Mitchell Circle",Chroustovice,129344,NULL,"Czech Republic",422,Elite
+CUST427,CART427,Clo,Scamal,1983-11-19,9217051209,cscamalbu@wix.com,59,"99 Nelson Point","Tuy Phước",252166,NULL,Vietnam,3666,Prime
+CUST428,CART428,Marget,Daniell,1959-09-24,7444610518,mdaniellbv@amazon.com,279,"24 Kinsman Terrace",Ropice,353427,NULL,"Czech Republic",2010,Elite
+CUST429,CART429,Rina,Makin,2008-05-21,8879259340,rmakinbw@theglobeandmail.com,224,"69 Springs Parkway",Taluksangay,246711,NULL,Philippines,182,Prime
+CUST430,CART430,Alvera,Beushaw,1999-07-08,4184018238,abeushawbx@themeforest.net,7,"51374 Sunfield Avenue",Foso,538919,NULL,Ghana,149,Normal
+CUST431,CART431,Aaron,Brusin,1997-12-01,5703032556,abrusinby@clickbank.net,201,"78101 Banding Drive",Veracruz,586501,NULL,Panama,447,Prime
+CUST432,CART432,Florrie,Josipovic,1997-10-20,8363610309,fjosipovicbz@un.org,293,"29 Dwight Center",Dalian,434882,NULL,China,1115,Elite
+CUST433,CART433,Tedi,Millyard,1983-07-19,7245484460,tmillyardc0@princeton.edu,174,"100 Carey Place",Qelëz,369329,NULL,Albania,30,Prime
+CUST434,CART434,Celestina,Pedrollo,1970-06-06,NULL,cpedrolloc1@github.com,271,"1291 Huxley Alley",Austin,214278,Texas,"United States",3839,Prime
+CUST435,CART435,Ambur,Dash,1956-03-22,2245913573,adashc2@about.me,71,"5574 West Road",Carayaó,157927,NULL,Paraguay,3790,Elite
+CUST436,CART436,Joshuah,Vinson,1967-06-07,6587223929,jvinsonc3@accuweather.com,136,"2 Cody Point",Vysotskoye,489847,NULL,Russia,2619,Normal
+CUST437,CART437,Rorke,Crompton,2002-02-27,5232110509,rcromptonc4@4shared.com,218,"837 Goodland Pass","San Manuel Chaparrón",157699,NULL,Guatemala,3698,Normal
+CUST438,CART438,Raimondo,Elcott,2006-11-28,4055658353,relcottc5@upenn.edu,175,"5182 Mandrake Drive",Aubenas,165115,Rhône-Alpes,France,3383,Normal
+CUST439,CART439,Estelle,Amori,1967-09-27,5008479776,eamoric6@google.pl,179,"70 Kenwood Trail","Paris 16",268778,Île-de-France,France,377,Elite
+CUST440,CART440,Kara-lynn,Bottomore,1975-06-30,3052407134,kbottomorec7@printfriendly.com,256,"18539 Stephen Place",Marignane,413525,"Provence-Alpes-Côte d'Azur",France,NULL,Prime
+CUST441,CART441,Philippa,Eggers,1986-04-21,4981200692,peggersc8@fda.gov,206,"4 Clyde Gallagher Road",Baraba,574756,NULL,Russia,NULL,Elite
+CUST442,CART442,Maddie,Wintringham,1988-05-04,6063058176,mwintringhamc9@blogs.com,77,"9 Oxford Lane","Eastern Suburbs Mc",259019,"New South Wales",Australia,3589,Prime
+CUST443,CART443,Des,Wavell,1973-02-06,2043219495,dwavellca@miitbeian.gov.cn,295,"56 Transport Road",Oslo,576694,Oslo,Norway,4363,Normal
+CUST444,CART444,Analise,Vedekhin,1959-04-25,2129673283,avedekhincb@yandex.ru,40,"2738 Melrose Place",Čejkovice,340810,NULL,"Czech Republic",4541,Prime
+CUST445,CART445,Tessa,Blick,1975-04-04,9458676729,tblickcc@noaa.gov,110,"20 Golf View Place",Choszczno,589881,NULL,Poland,3132,Normal
+CUST446,CART446,Prent,Dibbe,1980-04-19,8672604654,pdibbecd@google.com.br,57,"58 Springview Avenue",Innisfil,401131,Ontario,Canada,923,Prime
+CUST447,CART447,Nadia,"St Pierre",2007-01-27,9278554866,nstpierrece@cocolog-nifty.com,107,"80 Sunbrook Drive",Dongshe,101739,NULL,China,3625,Elite
+CUST448,CART448,Dana,Jayme,1984-05-02,4742508352,djaymecf@ft.com,87,"71 Vahlen Crossing",Yanglinwei,425985,NULL,China,1699,Prime
+CUST449,CART449,Valentijn,Larmuth,1974-12-05,6625407220,vlarmuthcg@angelfire.com,217,"7 Autumn Leaf Pass","Francisco Villa",439922,"Coahuila De Zaragoza",Mexico,2537,Prime
+CUST450,CART450,Mignon,Angerstein,1961-05-06,3414095131,mangersteinch@cbc.ca,198,"183 Brown Hill",Turgenevo,588957,NULL,Russia,2145,Prime
+CUST451,CART451,Laurena,Conkey,1975-06-10,4427104557,lconkeyci@ning.com,238,"090 Hermina Hill",Oslo,246429,Oslo,Norway,3013,Prime
+CUST452,CART452,Andras,Carnoghan,2006-02-16,2258532835,acarnoghancj@cisco.com,59,"5580 Shelley Drive",Leonídio,474955,NULL,Greece,4691,Prime
+CUST453,CART453,Prentice,Cordero,1979-03-20,2388337269,pcorderock@alibaba.com,44,"0911 Di Loreto Trail",Changchun,571613,NULL,China,2909,Normal
+CUST454,CART454,Horton,Dincey,1975-05-09,1608515143,hdinceycl@google.de,2,"0 Towne Terrace",Balayan,233262,NULL,Philippines,1649,Normal
+CUST455,CART455,Morrie,Crannis,1995-06-21,7216387524,mcranniscm@virginia.edu,160,"58 Mallory Alley",Działdowo,277753,NULL,Poland,105,Prime
+CUST456,CART456,Correna,Davidovicz,1969-06-07,9269559673,cdavidoviczcn@bravesites.com,75,"64788 Reindahl Pass",Karangnunggal,271196,NULL,Indonesia,2854,Prime
+CUST457,CART457,Paulette,Inchan,1957-11-26,2027569262,pinchanco@huffingtonpost.com,109,"8 Florence Junction",Gresik,575556,NULL,Indonesia,4977,Normal
+CUST458,CART458,Elvina,Stubley,1992-08-06,9691159635,estubleycp@linkedin.com,141,"0 Hazelcrest Crossing",Kusatsu,100161,NULL,Japan,4363,Elite
+CUST459,CART459,Mimi,Wittier,1956-01-23,7906207721,mwittiercq@miitbeian.gov.cn,272,"3914 Truax Crossing",Huangnihe,445398,NULL,China,2578,Prime
+CUST460,CART460,Karisa,Curm,2000-10-01,7133069425,kcurmcr@tripod.com,223,"62 Meadow Valley Point",Sokółka,120969,NULL,Poland,3065,Normal
+CUST461,CART461,Tonnie,Chalfant,2001-03-27,6216013023,tchalfantcs@trellian.com,100,"46709 Katie Trail",Songshi,170134,NULL,China,4159,Normal
+CUST462,CART462,Bert,Vaillant,1986-06-10,1928695405,bvaillantct@fastcompany.com,91,"7 Manitowish Street",Nanqiao,472739,NULL,China,NULL,Normal
+CUST463,CART463,Celie,Rosander,1993-05-15,2995008969,crosandercu@naver.com,252,"62518 John Wall Pass",Pashkovskiy,102426,NULL,Russia,NULL,Prime
+CUST464,CART464,Cristy,Harraway,1962-06-14,NULL,charrawaycv@sciencedirect.com,174,"6686 Buell Way",Hagfors,334259,Värmland,Sweden,1202,Elite
+CUST465,CART465,Carlee,Blacklawe,1953-01-05,5454965746,cblacklawecw@mail.ru,197,"5568 Blaine Point",Jayune,324893,NULL,Peru,4597,Prime
+CUST466,CART466,Tamra,Fitzpatrick,2005-12-05,3013691512,tfitzpatrickcx@ebay.co.uk,29,"8535 Grasskamp Way",Dongjiao,388746,NULL,China,2975,Prime
+CUST467,CART467,Rivkah,Duckels,1981-05-29,9045426706,rduckelscy@example.com,205,"58 Lakewood Gardens Plaza","Kuala Lumpur",284917,"Kuala Lumpur",Malaysia,2746,Normal
+CUST468,CART468,Justin,Saturley,2006-06-07,6619169085,jsaturleycz@uiuc.edu,88,"47064 Miller Hill",Ubinskoye,432808,NULL,Russia,3051,Normal
+CUST469,CART469,Jorrie,Copeland,1977-06-13,7961292205,jcopelandd0@fema.gov,189,"02 Delaware Avenue",Mizhou,127927,NULL,China,1054,Elite
+CUST470,CART470,Becki,Synan,1968-11-27,1775142070,bsynand1@cisco.com,290,"94 Elmside Terrace",Bārah,340609,NULL,Sudan,1036,Prime
+CUST471,CART471,Gregoor,Lerhinan,2003-06-06,2683113323,glerhinand2@altervista.org,218,"558 Knutson Junction",Iguape,502511,NULL,Brazil,1553,Elite
+CUST472,CART472,Debbi,Asmus,1952-04-07,2898528528,dasmusd3@soundcloud.com,90,"002 Buena Vista Place","Phan Thong",256561,NULL,Thailand,1325,Prime
+CUST473,CART473,Caz,Bernakiewicz,1970-04-01,6453599904,cbernakiewiczd4@free.fr,212,"62272 Sage Alley",Pira,310290,NULL,Peru,1290,Prime
+CUST474,CART474,Hyacinthie,Cardenosa,1980-05-14,9909138565,hcardenosad5@jiathis.com,65,"43 Del Sol Parkway",Cergy-Pontoise,348292,Île-de-France,France,4756,Elite
+CUST475,CART475,Hagen,Scottesmoor,1961-11-26,2219373775,hscottesmoord6@rediff.com,149,"705 International Trail",Satovcha,432833,NULL,Bulgaria,4352,Prime
+CUST476,CART476,Ethelind,Chrichton,2007-01-18,8224520691,echrichtond7@tiny.cc,227,"931 Larry Avenue",Qo‘qon,241823,NULL,Uzbekistan,1558,Elite
+CUST477,CART477,Drew,Paoli,1976-11-07,6192395949,dpaolid8@gravatar.com,106,"0 Pankratz Trail",Toktogul,493499,NULL,Kyrgyzstan,3562,Elite
+CUST478,CART478,Calhoun,Woodlands,1951-08-25,4272434604,cwoodlandsd9@smh.com.au,95,"0949 Texas Avenue",Sidareja,406933,NULL,Indonesia,2156,Normal
+CUST479,CART479,Lacee,Shiell,1959-01-01,5936114389,lshiellda@51.la,216,"79 Reindahl Way",Kragujevac,126636,NULL,Serbia,1617,Elite
+CUST480,CART480,Curran,Titt,1951-10-26,5233060142,ctittdb@devhub.com,96,"3972 Rigney Road",Yeniugou,144823,NULL,China,2219,Elite
+CUST481,CART481,Paquito,Courvert,1954-10-22,9819468654,pcourvertdc@theglobeandmail.com,186,"48 Prairieview Hill",Negoslavci,529360,NULL,Croatia,3151,Prime
+CUST482,CART482,Melony,Swinnerton,1960-04-17,NULL,mswinnertondd@networkadvertising.org,294,"9285 Harbort Park",Patnongon,510877,NULL,Philippines,901,Normal
+CUST483,CART483,Dian,Doding,2008-07-02,1832669314,ddodingde@netlog.com,4,"99016 Old Shore Avenue",Vimmerby,379688,Kalmar,Sweden,4774,Prime
+CUST484,CART484,Minne,Repp,2007-05-25,2836534677,mreppdf@ustream.tv,293,"80323 Trailsway Street",Vesoul,571273,Franche-Comté,France,759,Normal
+CUST485,CART485,Dallas,Crut,1965-09-15,1948174330,dcrutdg@infoseek.co.jp,6,"9 Prentice Terrace",Beigang,492765,NULL,China,1528,Normal
+CUST486,CART486,Tamera,Bernardoni,1961-03-19,8568663428,tbernardonidh@globo.com,75,"35 Hoffman Point",Zalantun,271906,NULL,China,2829,Prime
+CUST487,CART487,Barthel,Lucius,1952-07-26,NULL,bluciusdi@ovh.net,191,"8081 Glendale Pass","El Cantón",118452,NULL,Venezuela,667,Prime
+CUST488,CART488,Waylon,Rosenbarg,1985-06-17,1567516467,wrosenbargdj@forbes.com,182,"1858 Forster Pass",Ina,349679,NULL,Japan,2651,Prime
+CUST489,CART489,Rori,Drohan,1951-10-24,2454999247,rdrohandk@vkontakte.ru,188,"32036 Stoughton Parkway",Piedras,108067,NULL,Colombia,913,Prime
+CUST490,CART490,Truman,Billham,2003-12-30,9936399755,tbillhamdl@ebay.com,201,"35 Blue Bill Park Point",Dao,447981,NULL,Philippines,4410,Prime
+CUST491,CART491,Maxine,Giannazzo,1950-03-23,4963741526,mgiannazzodm@deviantart.com,161,"24859 Manitowish Alley",Artybash,366980,NULL,Russia,3905,Normal
+CUST492,CART492,Billi,Sanson,1968-07-26,4727778127,bsansondn@google.de,133,"96399 Bellgrove Drive",Powassan,476277,Ontario,Canada,3934,Elite
+CUST493,CART493,Spencer,Packman,1956-08-21,2812708984,spackmando@blog.com,89,"7 Rigney Park",Humble,567257,Texas,"United States",4233,Elite
+CUST494,CART494,Alley,Jewis,1965-06-21,4948508471,ajewisdp@state.tx.us,100,"0 Merchant Alley",Oslo,575616,Oslo,Norway,4470,Normal
+CUST495,CART495,Haslett,"De Simoni",1958-08-20,NULL,hdesimonidq@plala.or.jp,193,"074 East Plaza",Kopparberg,205167,Örebro,Sweden,1686,Elite
+CUST496,CART496,Darice,Brodley,1967-02-07,2035641126,dbrodleydr@ft.com,292,"37 Coolidge Hill",Arinos,303146,NULL,Brazil,2219,Normal
+CUST497,CART497,Chrisy,Couronne,1999-06-14,2325371567,ccouronneds@chron.com,148,"7 Mallard Drive",Petřvald,308389,NULL,"Czech Republic",1218,Prime
+CUST498,CART498,Hattie,Hasty,1992-04-13,7854806231,hhastydt@imgur.com,233,"48727 Green Terrace",Zhongxinqiao,287559,NULL,China,3568,Prime
+CUST499,CART499,Oliviero,Anthonies,1973-07-28,2168388077,oanthoniesdu@networkadvertising.org,226,"6 Thackeray Alley",Mtwara,230587,NULL,Tanzania,3893,Elite
+CUST500,CART500,Malorie,Tarrier,1950-11-20,6518484602,mtarrierdv@soundcloud.com,239,"0 Dovetail Alley",Dagang,261028,NULL,China,4675,Elite

@@ -1,0 +1,38 @@
+-- 1. An OLAP query that gives the total number of items (products*quantity) in that
+-- category as well as the net monetary amount present in that category. It adds the
+-- stock quantities of all the products belonging to that category and also multiplies
+-- the price with the stock and adds that.
+
+-- SELECT COALESCE(category_id, 'All categories') AS 'Category Id', SUM(stock) AS
+-- 'Number of Quantities in this category', SUM(price*stock) AS 'Total Cost of this Category'
+-- FROM product
+-- GROUP BY (category_id) WITH ROLLUP;
+
+-- 2. An OLAP query to return the total quantity of a product in a customer’s cart that may
+-- be present as separate cart_items currently, it checks for multiple cart_items having
+-- same products, and present in the same cart then adds their quantity
+
+-- SELECT cart_id, product_id, SUM(quantity)
+-- FROM cart_item
+-- GROUP BY cart_id, product_id WITH ROLLUP;
+
+-- 3. An OLAP query to return the total amount spent by customers till now on the
+-- shopping platform, it also gives the total amount spent on all orders till now
+
+-- SELECT COALESCE(O.customer_id, 'All customers') AS 'CustomerID',
+-- SUM(O.net_amount) AS 'Total amount spent'
+-- FROM `Order` O
+-- GROUP BY O.customer_id WITH ROLLUP
+
+-- 4. An OLAP query to return the total number of products in a category and the total
+-- number of items present in that category.
+
+-- SELECT COALESCE(category_id,'All Categories Combined: ') AS CategoryID,
+-- COUNT(category_id) AS 'Total Number of products in that category',SUM(stock) AS "Total
+-- quantity of products in that category"
+-- FROM product
+-- GROUP BY category_id WITH ROLLUP;
+
+
+
+
