@@ -19,16 +19,16 @@ rewards and coupons available. Data regarding products will be stored like descr
 reviews, and ratings, shipping/transportation details, discounts available.
 
 # Constraints
-● A customer(identified with email-id or mobile no.) can have only one account in the store
+1. A customer(identified with email-id or mobile no.) can have only one account in the store
 application.
-● One account can have only a single cart.
-● One account can have multiple payment methods saved in the account, so this is a
+2. One account can have only a single cart.
+3. One account can have multiple payment methods saved in the account, so this is a
 one-to-many relationship.
-● The relationship between customers and products will be many-to-many as multiple
+4. The relationship between customers and products will be many-to-many as multiple
 customers can buy the same products and also one customer can buy multiple products.
-● There can be multiple sellers for the same product, while a single seller can also sell
+5. There can be multiple sellers for the same product, while a single seller can also sell
 multiple products so again this would be a many-to-many relationship.
-● The order should be placed only after payment is confirmed. The cart should be emptied
+6. The order should be placed only after payment is confirmed. The cart should be emptied
 once order is placed.
 
 ## Functional Requirements:
